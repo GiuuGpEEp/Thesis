@@ -1,0 +1,41 @@
+2025-10-06 10:55:32,193 - DefaultLogger - INFO - File Report.txt creato con successo.
+2025-10-06 10:55:32,194 - DefaultLogger - INFO - Caricamento del file XML
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Inizio parsing degli itinerari con plantId '164'
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Parsing itinerario: 01-45 completato con successo.
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Parsing itinerario: 01-43 completato con successo.
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Parsing itinerario: 25-01 completato con successo.
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Parsing itinerario: 23-01 completato con successo.
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Parsing itinerario: 02-25 completato con successo.
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Parsing itinerario: 02-23 completato con successo.
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Parsing itinerario: 45-02 completato con successo.
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Parsing itinerario: 43-02 completato con successo.
+2025-10-06 10:55:32,229 - DefaultLogger - INFO - Trovati 8 itinerari con plantId '164'.
+2025-10-06 10:55:32,230 - DefaultLogger - INFO - Itinerario '01-45' scritto correttamente nel Report.
+2025-10-06 10:55:32,231 - DefaultLogger - INFO - Itinerario '01-43' scritto correttamente nel Report.
+2025-10-06 10:55:32,231 - DefaultLogger - INFO - Itinerario '25-01' scritto correttamente nel Report.
+2025-10-06 10:55:32,231 - DefaultLogger - INFO - Itinerario '23-01' scritto correttamente nel Report.
+2025-10-06 10:55:32,231 - DefaultLogger - INFO - Itinerario '02-25' scritto correttamente nel Report.
+2025-10-06 10:55:32,232 - DefaultLogger - INFO - Itinerario '02-23' scritto correttamente nel Report.
+2025-10-06 10:55:32,232 - DefaultLogger - INFO - Itinerario '45-02' scritto correttamente nel Report.
+2025-10-06 10:55:32,232 - DefaultLogger - INFO - Itinerario '43-02' scritto correttamente nel Report.
+2025-10-06 10:55:32,232 - DefaultLogger - INFO - Connessione al database in corso...
+2025-10-06 10:55:32,583 - DefaultLogger - INFO - Connessione al database avvenuta con successo.
+2025-10-06 10:55:32,583 - DefaultLogger - INFO - Recupero degli itinerari dal database...
+2025-10-06 10:55:32,595 - DefaultLogger - INFO - Operazione completata con successo. Sono stati caricati: 8 itinerari.
+2025-10-06 10:55:32,608 - DefaultLogger - INFO - Recupero e merge dei dati completato con successo.
+2025-10-06 10:55:32,609 - DefaultLogger - INFO - Connessione al database chiusa.
+2025-10-06 10:55:32,609 - DefaultLogger - INFO - Trovati 8 itinerari nel database.
+2025-10-06 10:55:32,611 - DefaultLogger - INFO - Itinerario DB '02-25' scritto correttamente nel Report.
+2025-10-06 10:55:32,612 - DefaultLogger - INFO - Itinerario DB '02-23' scritto correttamente nel Report.
+2025-10-06 10:55:32,613 - DefaultLogger - INFO - Itinerario DB '45-02' scritto correttamente nel Report.
+2025-10-06 10:55:32,614 - DefaultLogger - INFO - Itinerario DB '43-02' scritto correttamente nel Report.
+2025-10-06 10:55:32,614 - DefaultLogger - INFO - Itinerario DB '25-01' scritto correttamente nel Report.
+2025-10-06 10:55:32,615 - DefaultLogger - INFO - Itinerario DB '23-01' scritto correttamente nel Report.
+2025-10-06 10:55:32,616 - DefaultLogger - INFO - Itinerario DB '01-45' scritto correttamente nel Report.
+2025-10-06 10:55:32,616 - DefaultLogger - INFO - Itinerario DB '01-43' scritto correttamente nel Report.
+2025-10-06 10:55:32,616 - DefaultLogger - INFO - Inizio confronto tra XML e database...
+2025-10-06 10:55:32,621 - ErrorLogger - ERROR - DIFF. Itinerario '25-01': TrackCircuits non corrispondenti. XML: ['112', '111', '110', 'BCA24_163'], DB: ['112', '111', '110']
+2025-10-06 10:55:32,624 - ErrorLogger - ERROR - DIFF. Itinerario '23-01': TrackCircuits non corrispondenti. XML: ['112', '111', '110', 'BCA24_163'], DB: ['112', '111', '110']
+2025-10-06 10:55:32,628 - ErrorLogger - ERROR - DIFF. Itinerario '45-02': TrackCircuits non corrispondenti. XML: ['122', '121', '120', 'BCA02_165'], DB: ['122', '121', '120']
+2025-10-06 10:55:32,630 - ErrorLogger - ERROR - DIFF. Itinerario '43-02': TrackCircuits non corrispondenti. XML: ['122', '121', '120', 'BCA02_165'], DB: ['122', '121', '120']
+2025-10-06 10:55:32,633 - DefaultLogger - INFO - Confronto completato con successo.

@@ -1,0 +1,3764 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IXLItemCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" groupName="Ancona2" type="ROUTE">
+  <IXLItemList>
+    <IXLItem plantId="164" name="01-45" optional="-" extendedName="0001-0003-1" startPointId="4303" endPointId="3369" direction="D" signalId="4453" speed="30" trackItem="01_D01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="4046" name="110" />
+        <TrackCircuit progId="1" id="3963" name="111" />
+        <TrackCircuit progId="2" id="3476" name="112" />
+        <TrackCircuit progId="3" id="3781" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="944">
+          <Switch side="1" switchMotorId="1286" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>    
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4453" />
+        <IXLNode progId="1" id="19349" />
+        <IXLNode progId="2" id="26697" />
+        <IXLNode progId="3" id="19749" />
+        <IXLNode progId="4" id="38653" />
+        <IXLNode progId="5" id="26634" />
+        <IXLNode progId="6" id="38655" />
+        <IXLNode progId="7" id="8093" />
+        <IXLNode progId="8" id="36184" />
+        <IXLNode progId="9" id="3928" />
+        <IXLNode progId="10" id="7353" />
+        <IXLNode progId="11" id="6852" />
+        <IXLNode progId="12" id="6837" />
+        <IXLNode progId="13" id="8113" />
+        <IXLNode progId="14" id="14217" />
+        <IXLNode progId="15" id="38649" />
+        <IXLNode progId="16" id="26615" />
+        <IXLNode progId="17" id="38651" />
+        <IXLNode progId="18" id="944" />
+        <IXLNode progId="19" id="30673" />
+        <IXLNode progId="20" id="3407" />
+        <IXLNode progId="21" id="38645" />
+        <IXLNode progId="22" id="26577" />
+        <IXLNode progId="23" id="19394" />
+        <IXLNode progId="24" id="14545" />
+        <IXLNode progId="25" id="4746" />
+        <IXLNode progId="26" id="18142" />
+        <IXLNode progId="27" id="36283" />
+        <IXLNode progId="28" id="18186" />
+        <IXLNode progId="29" id="22258" />
+        <IXLNode progId="30" id="1167" />
+        <IXLNode progId="31" id="22303" />
+        <IXLNode progId="32" id="18563" />
+        <IXLNode progId="33" id="35045" />
+        <IXLNode progId="34" id="18382" />
+        <IXLNode progId="35" id="4603" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="164" name="01-48810" optional="-" extendedName="0001-0003-1" startPointId="4303" endPointId="3369" direction="D" signalId="4453" speed="30" trackItem="01_D01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="4046" name="110" />
+        <TrackCircuit progId="1" id="3963" name="111" />
+        <TrackCircuit progId="2" id="3476" name="112" />
+        <TrackCircuit progId="3" id="3781" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="944">
+          <Switch side="1" switchMotorId="1286" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>    
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4453" />
+        <IXLNode progId="1" id="19349" />
+        <IXLNode progId="2" id="26697" />
+        <IXLNode progId="3" id="19749" />
+        <IXLNode progId="4" id="38653" />
+        <IXLNode progId="5" id="26634" />
+        <IXLNode progId="6" id="38655" />
+        <IXLNode progId="7" id="8093" />
+        <IXLNode progId="8" id="36184" />
+        <IXLNode progId="9" id="3928" />
+        <IXLNode progId="10" id="7353" />
+        <IXLNode progId="11" id="6852" />
+        <IXLNode progId="12" id="6837" />
+        <IXLNode progId="13" id="8113" />
+        <IXLNode progId="14" id="14217" />
+        <IXLNode progId="15" id="38649" />
+        <IXLNode progId="16" id="26615" />
+        <IXLNode progId="17" id="38651" />
+        <IXLNode progId="18" id="944" />
+        <IXLNode progId="19" id="30673" />
+        <IXLNode progId="20" id="3407" />
+        <IXLNode progId="21" id="38645" />
+        <IXLNode progId="22" id="26577" />
+        <IXLNode progId="23" id="19394" />
+        <IXLNode progId="24" id="14545" />
+        <IXLNode progId="25" id="4746" />
+        <IXLNode progId="26" id="18142" />
+        <IXLNode progId="27" id="36283" />
+        <IXLNode progId="28" id="18186" />
+        <IXLNode progId="29" id="22258" />
+        <IXLNode progId="30" id="1167" />
+        <IXLNode progId="31" id="22303" />
+        <IXLNode progId="32" id="18563" />
+        <IXLNode progId="33" id="35045" />
+        <IXLNode progId="34" id="18382" />
+        <IXLNode progId="35" id="4603" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="164" name="01-43" optional="-" extendedName="0001-0003" startPointId="4303" endPointId="3388" direction="D" signalId="4453" speed="VL" trackItem="01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="4046" name="110" />
+        <TrackCircuit progId="1" id="3963" name="111" />
+        <TrackCircuit progId="2" id="3476" name="112" />
+        <TrackCircuit progId="3" id="3794" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="944">
+          <Switch side="1" switchMotorId="1286" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4453" />
+        <IXLNode progId="1" id="19349" />
+        <IXLNode progId="2" id="26697" />
+        <IXLNode progId="3" id="19749" />
+        <IXLNode progId="4" id="38653" />
+        <IXLNode progId="5" id="26634" />
+        <IXLNode progId="6" id="38655" />
+        <IXLNode progId="7" id="8093" />
+        <IXLNode progId="8" id="36184" />
+        <IXLNode progId="9" id="3928" />
+        <IXLNode progId="10" id="7353" />
+        <IXLNode progId="11" id="6852" />
+        <IXLNode progId="12" id="6837" />
+        <IXLNode progId="13" id="8113" />
+        <IXLNode progId="14" id="14217" />
+        <IXLNode progId="15" id="38649" />
+        <IXLNode progId="16" id="26615" />
+        <IXLNode progId="17" id="38651" />
+        <IXLNode progId="18" id="944" />
+        <IXLNode progId="19" id="30658" />
+        <IXLNode progId="20" id="3425" />
+        <IXLNode progId="21" id="35715" />
+        <IXLNode progId="22" id="38647" />
+        <IXLNode progId="23" id="26596" />
+        <IXLNode progId="24" id="19452" />
+        <IXLNode progId="25" id="14741" />
+        <IXLNode progId="26" id="4706" />
+        <IXLNode progId="27" id="18009" />
+        <IXLNode progId="28" id="31987" />
+        <IXLNode progId="29" id="1186" />
+        <IXLNode progId="30" id="32038" />
+        <IXLNode progId="31" id="18249" />
+        <IXLNode progId="32" id="4642" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="164" name="25-01" optional="-" extendedName="0076-1-0001" startPointId="3743" endPointId="4303" direction="S" signalId="4746" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3476" name="112" />
+        <TrackCircuit progId="1" id="3963" name="111" />
+        <TrackCircuit progId="2" id="4046" name="110" />
+        <TrackCircuit progId="3" id="66789" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="944">
+          <Switch side="1" switchMotorId="1286" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4746" />
+        <IXLNode progId="1" id="14545" />
+        <IXLNode progId="2" id="19394" />
+        <IXLNode progId="3" id="26577" />
+        <IXLNode progId="4" id="38645" />
+        <IXLNode progId="5" id="3407" />
+        <IXLNode progId="6" id="30673" />
+        <IXLNode progId="7" id="944" />
+        <IXLNode progId="8" id="38651" />
+        <IXLNode progId="9" id="26615" />
+        <IXLNode progId="10" id="38649" />
+        <IXLNode progId="11" id="14217" />
+        <IXLNode progId="12" id="8113" />
+        <IXLNode progId="13" id="6837" />
+        <IXLNode progId="14" id="6852" />
+        <IXLNode progId="15" id="7353" />
+        <IXLNode progId="16" id="3928" />
+        <IXLNode progId="17" id="36184" />
+        <IXLNode progId="18" id="8093" />
+        <IXLNode progId="19" id="38655" />
+        <IXLNode progId="20" id="26634" />
+        <IXLNode progId="21" id="38653" />
+        <IXLNode progId="22" id="19749" />
+        <IXLNode progId="23" id="26697" />
+        <IXLNode progId="24" id="19349" />
+        <IXLNode progId="25" id="4453" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="164" name="23-01" optional="-" extendedName="0076-0001" startPointId="3762" endPointId="4303" direction="S" signalId="4706" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3476" name="112" />
+        <TrackCircuit progId="1" id="3963" name="111" />
+        <TrackCircuit progId="2" id="4046" name="110" />
+        <TrackCircuit progId="3" id="66789" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="944">
+          <Switch side="1" switchMotorId="1286" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4706" />
+        <IXLNode progId="1" id="14741" />
+        <IXLNode progId="2" id="19452" />
+        <IXLNode progId="3" id="26596" />
+        <IXLNode progId="4" id="38647" />
+        <IXLNode progId="5" id="35715" />
+        <IXLNode progId="6" id="3425" />
+        <IXLNode progId="7" id="30658" />
+        <IXLNode progId="8" id="944" />
+        <IXLNode progId="9" id="38651" />
+        <IXLNode progId="10" id="26615" />
+        <IXLNode progId="11" id="38649" />
+        <IXLNode progId="12" id="14217" />
+        <IXLNode progId="13" id="8113" />
+        <IXLNode progId="14" id="6837" />
+        <IXLNode progId="15" id="6852" />
+        <IXLNode progId="16" id="7353" />
+        <IXLNode progId="17" id="3928" />
+        <IXLNode progId="18" id="36184" />
+        <IXLNode progId="19" id="8093" />
+        <IXLNode progId="20" id="38655" />
+        <IXLNode progId="21" id="26634" />
+        <IXLNode progId="22" id="38653" />
+        <IXLNode progId="23" id="19749" />
+        <IXLNode progId="24" id="26697" />
+        <IXLNode progId="25" id="19349" />
+        <IXLNode progId="26" id="4453" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="164" name="02-25" optional="-" extendedName="0074-0076-1" startPointId="1990" endPointId="3743" direction="S" signalId="4527" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="31806" name="120" />
+        <TrackCircuit progId="1" id="2882" name="121" />
+        <TrackCircuit progId="2" id="2986" name="122" />
+        <TrackCircuit progId="3" id="3781" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="882">
+          <Switch side="1" switchMotorId="1425" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4527" />
+        <IXLNode progId="1" id="19527" />
+        <IXLNode progId="2" id="31891" />
+        <IXLNode progId="3" id="32922" />
+        <IXLNode progId="4" id="34921" />
+        <IXLNode progId="5" id="7169" />
+        <IXLNode progId="6" id="7184" />
+        <IXLNode progId="7" id="8529" />
+        <IXLNode progId="8" id="38635" />
+        <IXLNode progId="9" id="26501" />
+        <IXLNode progId="10" id="38633" />
+        <IXLNode progId="11" id="8413" />
+        <IXLNode progId="12" id="19169" />
+        <IXLNode progId="13" id="1507" />
+        <IXLNode progId="14" id="16684" />
+        <IXLNode progId="15" id="38639" />
+        <IXLNode progId="16" id="26520" />
+        <IXLNode progId="17" id="38637" />
+        <IXLNode progId="18" id="882" />
+        <IXLNode progId="19" id="30703" />
+        <IXLNode progId="20" id="3024" />
+        <IXLNode progId="21" id="38641" />
+        <IXLNode progId="22" id="26539" />
+        <IXLNode progId="23" id="19477" />
+        <IXLNode progId="24" id="15925" />
+        <IXLNode progId="25" id="4603" />
+        <IXLNode progId="26" id="18382" />
+        <IXLNode progId="27" id="35045" />
+        <IXLNode progId="28" id="18563" />
+        <IXLNode progId="29" id="22303" />
+        <IXLNode progId="30" id="1167" />
+        <IXLNode progId="31" id="22258" />
+        <IXLNode progId="32" id="18186" />
+        <IXLNode progId="33" id="36283" />
+        <IXLNode progId="34" id="18142" />
+        <IXLNode progId="35" id="4746" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="164" name="02-23" optional="-" extendedName="0074-0076" startPointId="1990" endPointId="3762" direction="S" signalId="4527" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="31806" name="120" />
+        <TrackCircuit progId="1" id="2882" name="121" />
+        <TrackCircuit progId="2" id="2986" name="122" />
+        <TrackCircuit progId="3" id="3794" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="882">
+          <Switch side="1" switchMotorId="1425" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4527" />
+        <IXLNode progId="1" id="19527" />
+        <IXLNode progId="2" id="31891" />
+        <IXLNode progId="3" id="32922" />
+        <IXLNode progId="4" id="34921" />
+        <IXLNode progId="5" id="7169" />
+        <IXLNode progId="6" id="7184" />
+        <IXLNode progId="7" id="8529" />
+        <IXLNode progId="8" id="38635" />
+        <IXLNode progId="9" id="26501" />
+        <IXLNode progId="10" id="38633" />
+        <IXLNode progId="11" id="8413" />
+        <IXLNode progId="12" id="19169" />
+        <IXLNode progId="13" id="1507" />
+        <IXLNode progId="14" id="16684" />
+        <IXLNode progId="15" id="38639" />
+        <IXLNode progId="16" id="26520" />
+        <IXLNode progId="17" id="38637" />
+        <IXLNode progId="18" id="882" />
+        <IXLNode progId="19" id="30688" />
+        <IXLNode progId="20" id="3042" />
+        <IXLNode progId="21" id="35775" />
+        <IXLNode progId="22" id="38643" />
+        <IXLNode progId="23" id="26558" />
+        <IXLNode progId="24" id="19502" />
+        <IXLNode progId="25" id="15884" />
+        <IXLNode progId="26" id="4642" />
+        <IXLNode progId="27" id="18249" />
+        <IXLNode progId="28" id="32038" />
+        <IXLNode progId="29" id="1186" />
+        <IXLNode progId="30" id="31987" />
+        <IXLNode progId="31" id="18009" />
+        <IXLNode progId="32" id="4706" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="164" name="45-02" optional="-" extendedName="0003-1-0074" startPointId="3369" endPointId="1990" direction="D" signalId="4603" speed="30" trackItem="01_D01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2986" name="122" />
+        <TrackCircuit progId="1" id="2882" name="121" />
+        <TrackCircuit progId="2" id="31806" name="120" />
+        <TrackCircuit progId="3" id="66796" name="BCA02_165" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="882">
+          <Switch side="1" switchMotorId="1425" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4603" />
+        <IXLNode progId="1" id="15925" />
+        <IXLNode progId="2" id="19477" />
+        <IXLNode progId="3" id="26539" />
+        <IXLNode progId="4" id="38641" />
+        <IXLNode progId="5" id="3024" />
+        <IXLNode progId="6" id="30703" />
+        <IXLNode progId="7" id="882" />
+        <IXLNode progId="8" id="38637" />
+        <IXLNode progId="9" id="26520" />
+        <IXLNode progId="10" id="38639" />
+        <IXLNode progId="11" id="16684" />
+        <IXLNode progId="12" id="1507" />
+        <IXLNode progId="13" id="19169" />
+        <IXLNode progId="14" id="8413" />
+        <IXLNode progId="15" id="38633" />
+        <IXLNode progId="16" id="26501" />
+        <IXLNode progId="17" id="38635" />
+        <IXLNode progId="18" id="8529" />
+        <IXLNode progId="19" id="7184" />
+        <IXLNode progId="20" id="7169" />
+        <IXLNode progId="21" id="34921" />
+        <IXLNode progId="22" id="32922" />
+        <IXLNode progId="23" id="31891" />
+        <IXLNode progId="24" id="19527" />
+        <IXLNode progId="25" id="4527" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="164" name="43-02" optional="-" extendedName="0003-0074" startPointId="3388" endPointId="1990" direction="D" signalId="4642" speed="VL" trackItem="01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2986" name="122" />
+        <TrackCircuit progId="1" id="2882" name="121" />
+        <TrackCircuit progId="2" id="31806" name="120" />
+        <TrackCircuit progId="3" id="66796" name="BCA02_165" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="882">
+          <Switch side="1" switchMotorId="1425" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4642" />
+        <IXLNode progId="1" id="15884" />
+        <IXLNode progId="2" id="19502" />
+        <IXLNode progId="3" id="26558" />
+        <IXLNode progId="4" id="38643" />
+        <IXLNode progId="5" id="35775" />
+        <IXLNode progId="6" id="3042" />
+        <IXLNode progId="7" id="30688" />
+        <IXLNode progId="8" id="882" />
+        <IXLNode progId="9" id="38637" />
+        <IXLNode progId="10" id="26520" />
+        <IXLNode progId="11" id="38639" />
+        <IXLNode progId="12" id="16684" />
+        <IXLNode progId="13" id="1507" />
+        <IXLNode progId="14" id="19169" />
+        <IXLNode progId="15" id="8413" />
+        <IXLNode progId="16" id="38633" />
+        <IXLNode progId="17" id="26501" />
+        <IXLNode progId="18" id="38635" />
+        <IXLNode progId="19" id="8529" />
+        <IXLNode progId="20" id="7184" />
+        <IXLNode progId="21" id="7169" />
+        <IXLNode progId="22" id="34921" />
+        <IXLNode progId="23" id="32922" />
+        <IXLNode progId="24" id="31891" />
+        <IXLNode progId="25" id="19527" />
+        <IXLNode progId="26" id="4527" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YuwOKG1s2SzpfU0x5R5MdQ==" name="Stroncone" isOriginGraph="true">
+          <plantID>164</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="166" name="01-43" optional="-" extendedName="0005-0007" startPointId="3155" endPointId="3817" direction="D" signalId="5066" speed="VL" trackItem="01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2883" name="110" />
+        <TrackCircuit progId="1" id="2810" name="111" />
+        <TrackCircuit progId="2" id="2778" name="112" />
+        <TrackCircuit progId="3" id="2290" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="845">
+          <Switch side="1" switchMotorId="2705" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="5066" />
+        <IXLNode progId="1" id="15780" />
+        <IXLNode progId="2" id="23270" />
+        <IXLNode progId="3" id="16859" />
+        <IXLNode progId="4" id="34367" />
+        <IXLNode progId="5" id="23130" />
+        <IXLNode progId="6" id="34369" />
+        <IXLNode progId="7" id="7647" />
+        <IXLNode progId="8" id="2851" />
+        <IXLNode progId="9" id="28551" />
+        <IXLNode progId="10" id="15844" />
+        <IXLNode progId="11" id="31329" />
+        <IXLNode progId="12" id="34363" />
+        <IXLNode progId="13" id="23111" />
+        <IXLNode progId="14" id="34365" />
+        <IXLNode progId="15" id="8058" />
+        <IXLNode progId="16" id="8043" />
+        <IXLNode progId="17" id="845" />
+        <IXLNode progId="18" id="28002" />
+        <IXLNode progId="19" id="30738" />
+        <IXLNode progId="20" id="1105" />
+        <IXLNode progId="21" id="34359" />
+        <IXLNode progId="22" id="23073" />
+        <IXLNode progId="23" id="15704" />
+        <IXLNode progId="24" id="12313" />
+        <IXLNode progId="25" id="5272" />
+        <IXLNode progId="26" id="14697" />
+        <IXLNode progId="27" id="21628" />
+        <IXLNode progId="28" id="2240" />
+        <IXLNode progId="29" id="30542" />
+        <IXLNode progId="30" id="15050" />
+        <IXLNode progId="31" id="21583" />
+        <IXLNode progId="32" id="15095" />
+        <IXLNode progId="33" id="5412" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="XTxtg4Yu/Y4RAx4jzOoH3g==" name="Marmore" isOriginGraph="true">
+          <plantID>166</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="166" name="01-44" optional="-" extendedName="0005-0007-1" startPointId="3155" endPointId="3836" direction="D" signalId="5066" speed="30" trackItem="01_D01_D04_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2883" name="110" />
+        <TrackCircuit progId="1" id="2810" name="111" />
+        <TrackCircuit progId="2" id="2778" name="112" />
+        <TrackCircuit progId="3" id="2276" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="845">
+          <Switch side="1" switchMotorId="2705" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="1322">
+          <Switch side="1" switchMotorId="1614" switchMotorName="101" switchMotorNumber="101" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="5066" />
+        <IXLNode progId="1" id="15780" />
+        <IXLNode progId="2" id="23270" />
+        <IXLNode progId="3" id="16859" />
+        <IXLNode progId="4" id="34367" />
+        <IXLNode progId="5" id="23130" />
+        <IXLNode progId="6" id="34369" />
+        <IXLNode progId="7" id="7647" />
+        <IXLNode progId="8" id="2851" />
+        <IXLNode progId="9" id="28551" />
+        <IXLNode progId="10" id="15844" />
+        <IXLNode progId="11" id="31329" />
+        <IXLNode progId="12" id="34363" />
+        <IXLNode progId="13" id="23111" />
+        <IXLNode progId="14" id="34365" />
+        <IXLNode progId="15" id="8058" />
+        <IXLNode progId="16" id="8043" />
+        <IXLNode progId="17" id="845" />
+        <IXLNode progId="18" id="27987" />
+        <IXLNode progId="19" id="30802" />
+        <IXLNode progId="20" id="1087" />
+        <IXLNode progId="21" id="34361" />
+        <IXLNode progId="22" id="23092" />
+        <IXLNode progId="23" id="15729" />
+        <IXLNode progId="24" id="12332" />
+        <IXLNode progId="25" id="5341" />
+        <IXLNode progId="26" id="14785" />
+        <IXLNode progId="27" id="14829" />
+        <IXLNode progId="28" id="2221" />
+        <IXLNode progId="29" id="21716" />
+        <IXLNode progId="30" id="19129" />
+        <IXLNode progId="31" id="32459" />
+        <IXLNode progId="32" id="32348" />
+        <IXLNode progId="33" id="31489" />
+        <IXLNode progId="34" id="1322" />
+        <IXLNode progId="35" id="32400" />
+        <IXLNode progId="36" id="14918" />
+        <IXLNode progId="37" id="5451" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="XTxtg4Yu/Y4RAx4jzOoH3g==" name="Marmore" isOriginGraph="true">
+          <plantID>166</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="166" name="23-01" optional="-" extendedName="0072-0005" startPointId="2616" endPointId="3155" direction="S" signalId="5272" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2778" name="112" />
+        <TrackCircuit progId="1" id="2810" name="111" />
+        <TrackCircuit progId="2" id="2883" name="110" />
+        <TrackCircuit progId="3" id="66797" name="BCA02_165" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="845">
+          <Switch side="1" switchMotorId="2705" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="5272" />
+        <IXLNode progId="1" id="12313" />
+        <IXLNode progId="2" id="15704" />
+        <IXLNode progId="3" id="23073" />
+        <IXLNode progId="4" id="34359" />
+        <IXLNode progId="5" id="1105" />
+        <IXLNode progId="6" id="30738" />
+        <IXLNode progId="7" id="28002" />
+        <IXLNode progId="8" id="845" />
+        <IXLNode progId="9" id="8043" />
+        <IXLNode progId="10" id="8058" />
+        <IXLNode progId="11" id="34365" />
+        <IXLNode progId="12" id="23111" />
+        <IXLNode progId="13" id="34363" />
+        <IXLNode progId="14" id="31329" />
+        <IXLNode progId="15" id="15844" />
+        <IXLNode progId="16" id="28551" />
+        <IXLNode progId="17" id="2851" />
+        <IXLNode progId="18" id="7647" />
+        <IXLNode progId="19" id="34369" />
+        <IXLNode progId="20" id="23130" />
+        <IXLNode progId="21" id="34367" />
+        <IXLNode progId="22" id="16859" />
+        <IXLNode progId="23" id="23270" />
+        <IXLNode progId="24" id="15780" />
+        <IXLNode progId="25" id="5066" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="XTxtg4Yu/Y4RAx4jzOoH3g==" name="Marmore" isOriginGraph="true">
+          <plantID>166</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="166" name="24-01" optional="-" extendedName="0072-1-0005" startPointId="2635" endPointId="3155" direction="S" signalId="5341" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2778" name="112" />
+        <TrackCircuit progId="1" id="2810" name="111" />
+        <TrackCircuit progId="2" id="2883" name="110" />
+        <TrackCircuit progId="3" id="66797" name="BCA02_165" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="845">
+          <Switch side="1" switchMotorId="2705" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="5341" />
+        <IXLNode progId="1" id="12332" />
+        <IXLNode progId="2" id="15729" />
+        <IXLNode progId="3" id="23092" />
+        <IXLNode progId="4" id="34361" />
+        <IXLNode progId="5" id="1087" />
+        <IXLNode progId="6" id="30802" />
+        <IXLNode progId="7" id="27987" />
+        <IXLNode progId="8" id="845" />
+        <IXLNode progId="9" id="8043" />
+        <IXLNode progId="10" id="8058" />
+        <IXLNode progId="11" id="34365" />
+        <IXLNode progId="12" id="23111" />
+        <IXLNode progId="13" id="34363" />
+        <IXLNode progId="14" id="31329" />
+        <IXLNode progId="15" id="15844" />
+        <IXLNode progId="16" id="28551" />
+        <IXLNode progId="17" id="2851" />
+        <IXLNode progId="18" id="7647" />
+        <IXLNode progId="19" id="34369" />
+        <IXLNode progId="20" id="23130" />
+        <IXLNode progId="21" id="34367" />
+        <IXLNode progId="22" id="16859" />
+        <IXLNode progId="23" id="23270" />
+        <IXLNode progId="24" id="15780" />
+        <IXLNode progId="25" id="5066" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="XTxtg4Yu/Y4RAx4jzOoH3g==" name="Marmore" isOriginGraph="true">
+          <plantID>166</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="166" name="02-23" optional="-" extendedName="0070-0072" startPointId="4204" endPointId="2616" direction="S" signalId="4900" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="4048" name="120" />
+        <TrackCircuit progId="1" id="3956" name="121" />
+        <TrackCircuit progId="2" id="3924" name="122" />
+        <TrackCircuit progId="3" id="2290" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="933">
+          <Switch side="1" switchMotorId="1861" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4900" />
+        <IXLNode progId="1" id="15518" />
+        <IXLNode progId="2" id="23306" />
+        <IXLNode progId="3" id="16929" />
+        <IXLNode progId="4" id="34381" />
+        <IXLNode progId="5" id="23206" />
+        <IXLNode progId="6" id="34379" />
+        <IXLNode progId="7" id="8644" />
+        <IXLNode progId="8" id="3997" />
+        <IXLNode progId="9" id="28598" />
+        <IXLNode progId="10" id="16328" />
+        <IXLNode progId="11" id="34377" />
+        <IXLNode progId="12" id="23187" />
+        <IXLNode progId="13" id="34375" />
+        <IXLNode progId="14" id="933" />
+        <IXLNode progId="15" id="28058" />
+        <IXLNode progId="16" id="31860" />
+        <IXLNode progId="17" id="34373" />
+        <IXLNode progId="18" id="23168" />
+        <IXLNode progId="19" id="15484" />
+        <IXLNode progId="20" id="12389" />
+        <IXLNode progId="21" id="5412" />
+        <IXLNode progId="22" id="15095" />
+        <IXLNode progId="23" id="21583" />
+        <IXLNode progId="24" id="15050" />
+        <IXLNode progId="25" id="30542" />
+        <IXLNode progId="26" id="2240" />
+        <IXLNode progId="27" id="21628" />
+        <IXLNode progId="28" id="14697" />
+        <IXLNode progId="29" id="5272" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="XTxtg4Yu/Y4RAx4jzOoH3g==" name="Marmore" isOriginGraph="true">
+          <plantID>166</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="166" name="02-24" optional="-" extendedName="0070-0072-1" startPointId="4204" endPointId="2635" direction="S" signalId="4900" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="4048" name="120" />
+        <TrackCircuit progId="1" id="3956" name="121" />
+        <TrackCircuit progId="2" id="3924" name="122" />
+        <TrackCircuit progId="3" id="3892" name="123" />
+        <TrackCircuit progId="4" id="2276" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="933">
+          <Switch side="1" switchMotorId="1861" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="987">
+          <Switch side="1" switchMotorId="1948" switchMotorName="04" switchMotorNumber="04" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="1322">
+          <Switch side="1" switchMotorId="1614" switchMotorName="101" switchMotorNumber="101" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4900" />
+        <IXLNode progId="1" id="15518" />
+        <IXLNode progId="2" id="23306" />
+        <IXLNode progId="3" id="16929" />
+        <IXLNode progId="4" id="34381" />
+        <IXLNode progId="5" id="23206" />
+        <IXLNode progId="6" id="34379" />
+        <IXLNode progId="7" id="8644" />
+        <IXLNode progId="8" id="3997" />
+        <IXLNode progId="9" id="28598" />
+        <IXLNode progId="10" id="16328" />
+        <IXLNode progId="11" id="34377" />
+        <IXLNode progId="12" id="23187" />
+        <IXLNode progId="13" id="34375" />
+        <IXLNode progId="14" id="933" />
+        <IXLNode progId="15" id="28033" />
+        <IXLNode progId="16" id="31840" />
+        <IXLNode progId="17" id="34357" />
+        <IXLNode progId="18" id="23054" />
+        <IXLNode progId="19" id="34355" />
+        <IXLNode progId="20" id="31878" />
+        <IXLNode progId="21" id="987" />
+        <IXLNode progId="22" id="34371" />
+        <IXLNode progId="23" id="23149" />
+        <IXLNode progId="24" id="15439" />
+        <IXLNode progId="25" id="12408" />
+        <IXLNode progId="26" id="5451" />
+        <IXLNode progId="27" id="14918" />
+        <IXLNode progId="28" id="32400" />
+        <IXLNode progId="29" id="1322" />
+        <IXLNode progId="30" id="31489" />
+        <IXLNode progId="31" id="32348" />
+        <IXLNode progId="32" id="32459" />
+        <IXLNode progId="33" id="19129" />
+        <IXLNode progId="34" id="21716" />
+        <IXLNode progId="35" id="2221" />
+        <IXLNode progId="36" id="14829" />
+        <IXLNode progId="37" id="14785" />
+        <IXLNode progId="38" id="5341" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="XTxtg4Yu/Y4RAx4jzOoH3g==" name="Marmore" isOriginGraph="true">
+          <plantID>166</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="166" name="43-02" optional="-" extendedName="0007-0070" startPointId="3817" endPointId="4204" direction="D" signalId="5412" speed="VL" trackItem="01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3924" name="122" />
+        <TrackCircuit progId="1" id="3956" name="121" />
+        <TrackCircuit progId="2" id="4048" name="120" />
+        <TrackCircuit progId="3" id="66794" name="BCA02_167" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="933">
+          <Switch side="1" switchMotorId="1861" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="5412" />
+        <IXLNode progId="1" id="12389" />
+        <IXLNode progId="2" id="15484" />
+        <IXLNode progId="3" id="23168" />
+        <IXLNode progId="4" id="34373" />
+        <IXLNode progId="5" id="31860" />
+        <IXLNode progId="6" id="28058" />
+        <IXLNode progId="7" id="933" />
+        <IXLNode progId="8" id="34375" />
+        <IXLNode progId="9" id="23187" />
+        <IXLNode progId="10" id="34377" />
+        <IXLNode progId="11" id="16328" />
+        <IXLNode progId="12" id="28598" />
+        <IXLNode progId="13" id="3997" />
+        <IXLNode progId="14" id="8644" />
+        <IXLNode progId="15" id="34379" />
+        <IXLNode progId="16" id="23206" />
+        <IXLNode progId="17" id="34381" />
+        <IXLNode progId="18" id="16929" />
+        <IXLNode progId="19" id="23306" />
+        <IXLNode progId="20" id="15518" />
+        <IXLNode progId="21" id="4900" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="XTxtg4Yu/Y4RAx4jzOoH3g==" name="Marmore" isOriginGraph="true">
+          <plantID>166</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="166" name="44-02" optional="-" extendedName="0007-1-0070" startPointId="3836" endPointId="4204" direction="D" signalId="5451" speed="30" trackItem="01_D01_D04_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3892" name="123" />
+        <TrackCircuit progId="1" id="3924" name="122" />
+        <TrackCircuit progId="2" id="3956" name="121" />
+        <TrackCircuit progId="3" id="4048" name="120" />
+        <TrackCircuit progId="4" id="66794" name="BCA02_167" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="987">
+          <Switch side="1" switchMotorId="1948" switchMotorName="04" switchMotorNumber="04" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="933">
+          <Switch side="1" switchMotorId="1861" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="5451" />
+        <IXLNode progId="1" id="12408" />
+        <IXLNode progId="2" id="15439" />
+        <IXLNode progId="3" id="23149" />
+        <IXLNode progId="4" id="34371" />
+        <IXLNode progId="5" id="987" />
+        <IXLNode progId="6" id="31878" />
+        <IXLNode progId="7" id="34355" />
+        <IXLNode progId="8" id="23054" />
+        <IXLNode progId="9" id="34357" />
+        <IXLNode progId="10" id="31840" />
+        <IXLNode progId="11" id="28033" />
+        <IXLNode progId="12" id="933" />
+        <IXLNode progId="13" id="34375" />
+        <IXLNode progId="14" id="23187" />
+        <IXLNode progId="15" id="34377" />
+        <IXLNode progId="16" id="16328" />
+        <IXLNode progId="17" id="28598" />
+        <IXLNode progId="18" id="3997" />
+        <IXLNode progId="19" id="8644" />
+        <IXLNode progId="20" id="34379" />
+        <IXLNode progId="21" id="23206" />
+        <IXLNode progId="22" id="34381" />
+        <IXLNode progId="23" id="16929" />
+        <IXLNode progId="24" id="23306" />
+        <IXLNode progId="25" id="15518" />
+        <IXLNode progId="26" id="4900" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="XTxtg4Yu/Y4RAx4jzOoH3g==" name="Marmore" isOriginGraph="true">
+          <plantID>166</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="168" name="01-43" optional="-" extendedName="0009-0011" startPointId="3457" endPointId="3902" direction="D" signalId="4276" speed="VL" trackItem="01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2456" name="110" />
+        <TrackCircuit progId="1" id="14644" name="111" />
+        <TrackCircuit progId="2" id="14657" name="112" />
+        <TrackCircuit progId="3" id="2809" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="799">
+          <Switch side="1" switchMotorId="1446" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4276" />
+        <IXLNode progId="1" id="14709" />
+        <IXLNode progId="2" id="21233" />
+        <IXLNode progId="3" id="15189" />
+        <IXLNode progId="4" id="34665" />
+        <IXLNode progId="5" id="21111" />
+        <IXLNode progId="6" id="34667" />
+        <IXLNode progId="7" id="5463" />
+        <IXLNode progId="8" id="13328" />
+        <IXLNode progId="9" id="2307" />
+        <IXLNode progId="10" id="5965" />
+        <IXLNode progId="11" id="5768" />
+        <IXLNode progId="12" id="5753" />
+        <IXLNode progId="13" id="31297" />
+        <IXLNode progId="14" id="34657" />
+        <IXLNode progId="15" id="21054" />
+        <IXLNode progId="16" id="34659" />
+        <IXLNode progId="17" id="6020" />
+        <IXLNode progId="18" id="799" />
+        <IXLNode progId="19" id="30768" />
+        <IXLNode progId="20" id="30359" />
+        <IXLNode progId="21" id="34661" />
+        <IXLNode progId="22" id="21073" />
+        <IXLNode progId="23" id="14867" />
+        <IXLNode progId="24" id="11721" />
+        <IXLNode progId="25" id="27648" />
+        <IXLNode progId="26" id="4768" />
+        <IXLNode progId="27" id="13681" />
+        <IXLNode progId="28" id="28163" />
+        <IXLNode progId="29" id="1264" />
+        <IXLNode progId="30" id="28215" />
+        <IXLNode progId="31" id="14060" />
+        <IXLNode progId="32" id="4604" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="Uln3ZCjQrcxk1qw2l0KnNw==" name="Greccio" isOriginGraph="true">
+          <plantID>168</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="168" name="01-44" optional="-" extendedName="0009-0011-1" startPointId="3457" endPointId="3921" direction="D" signalId="4276" speed="30" trackItem="01_D01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2456" name="110" />
+        <TrackCircuit progId="1" id="14644" name="111" />
+        <TrackCircuit progId="2" id="14657" name="112" />
+        <TrackCircuit progId="3" id="2796" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="799">
+          <Switch side="1" switchMotorId="1446" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="27039">
+          <Switch side="1" switchMotorId="28467" switchMotorName="101" switchMotorNumber="101" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4276" />
+        <IXLNode progId="1" id="14709" />
+        <IXLNode progId="2" id="21233" />
+        <IXLNode progId="3" id="15189" />
+        <IXLNode progId="4" id="34665" />
+        <IXLNode progId="5" id="21111" />
+        <IXLNode progId="6" id="34667" />
+        <IXLNode progId="7" id="5463" />
+        <IXLNode progId="8" id="13328" />
+        <IXLNode progId="9" id="2307" />
+        <IXLNode progId="10" id="5965" />
+        <IXLNode progId="11" id="5768" />
+        <IXLNode progId="12" id="5753" />
+        <IXLNode progId="13" id="31297" />
+        <IXLNode progId="14" id="34657" />
+        <IXLNode progId="15" id="21054" />
+        <IXLNode progId="16" id="34659" />
+        <IXLNode progId="17" id="6020" />
+        <IXLNode progId="18" id="799" />
+        <IXLNode progId="19" id="27039" />
+        <IXLNode progId="20" id="30875" />
+        <IXLNode progId="21" id="30378" />
+        <IXLNode progId="22" id="27064" />
+        <IXLNode progId="23" id="34663" />
+        <IXLNode progId="24" id="21092" />
+        <IXLNode progId="25" id="14793" />
+        <IXLNode progId="26" id="11741" />
+        <IXLNode progId="27" id="4807" />
+        <IXLNode progId="28" id="13504" />
+        <IXLNode progId="29" id="27887" />
+        <IXLNode progId="30" id="27766" />
+        <IXLNode progId="31" id="1245" />
+        <IXLNode progId="32" id="28322" />
+        <IXLNode progId="33" id="16996" />
+        <IXLNode progId="34" id="32775" />
+        <IXLNode progId="35" id="32983" />
+        <IXLNode progId="36" id="13810" />
+        <IXLNode progId="37" id="4673" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="Uln3ZCjQrcxk1qw2l0KnNw==" name="Greccio" isOriginGraph="true">
+          <plantID>168</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="168" name="23-01" optional="-" extendedName="0068-0009" startPointId="4187" endPointId="3457" direction="S" signalId="4768" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="14657" name="112" />
+        <TrackCircuit progId="1" id="14644" name="111" />
+        <TrackCircuit progId="2" id="2456" name="110" />
+        <TrackCircuit progId="3" id="66794" name="BCA02_167" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="799">
+          <Switch side="1" switchMotorId="1446" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4768" />
+        <IXLNode progId="1" id="27648" />
+        <IXLNode progId="2" id="11721" />
+        <IXLNode progId="3" id="14867" />
+        <IXLNode progId="4" id="21073" />
+        <IXLNode progId="5" id="34661" />
+        <IXLNode progId="6" id="30359" />
+        <IXLNode progId="7" id="30768" />
+        <IXLNode progId="8" id="799" />
+        <IXLNode progId="9" id="6020" />
+        <IXLNode progId="10" id="34659" />
+        <IXLNode progId="11" id="21054" />
+        <IXLNode progId="12" id="34657" />
+        <IXLNode progId="13" id="31297" />
+        <IXLNode progId="14" id="5753" />
+        <IXLNode progId="15" id="5768" />
+        <IXLNode progId="16" id="5965" />
+        <IXLNode progId="17" id="2307" />
+        <IXLNode progId="18" id="13328" />
+        <IXLNode progId="19" id="5463" />
+        <IXLNode progId="20" id="34667" />
+        <IXLNode progId="21" id="21111" />
+        <IXLNode progId="22" id="34665" />
+        <IXLNode progId="23" id="15189" />
+        <IXLNode progId="24" id="21233" />
+        <IXLNode progId="25" id="14709" />
+        <IXLNode progId="26" id="4276" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="Uln3ZCjQrcxk1qw2l0KnNw==" name="Greccio" isOriginGraph="true">
+          <plantID>168</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="168" name="24-01" optional="-" extendedName="0068-1-0009" startPointId="4206" endPointId="3457" direction="S" signalId="4807" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="14657" name="112" />
+        <TrackCircuit progId="1" id="14644" name="111" />
+        <TrackCircuit progId="2" id="2456" name="110" />
+        <TrackCircuit progId="3" id="66794" name="BCA02_167" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="27039">
+          <Switch side="1" switchMotorId="28467" switchMotorName="101" switchMotorNumber="101" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="799">
+          <Switch side="1" switchMotorId="1446" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4807" />
+        <IXLNode progId="1" id="11741" />
+        <IXLNode progId="2" id="14793" />
+        <IXLNode progId="3" id="21092" />
+        <IXLNode progId="4" id="34663" />
+        <IXLNode progId="5" id="27064" />
+        <IXLNode progId="6" id="30378" />
+        <IXLNode progId="7" id="30875" />
+        <IXLNode progId="8" id="27039" />
+        <IXLNode progId="9" id="799" />
+        <IXLNode progId="10" id="6020" />
+        <IXLNode progId="11" id="34659" />
+        <IXLNode progId="12" id="21054" />
+        <IXLNode progId="13" id="34657" />
+        <IXLNode progId="14" id="31297" />
+        <IXLNode progId="15" id="5753" />
+        <IXLNode progId="16" id="5768" />
+        <IXLNode progId="17" id="5965" />
+        <IXLNode progId="18" id="2307" />
+        <IXLNode progId="19" id="13328" />
+        <IXLNode progId="20" id="5463" />
+        <IXLNode progId="21" id="34667" />
+        <IXLNode progId="22" id="21111" />
+        <IXLNode progId="23" id="34665" />
+        <IXLNode progId="24" id="15189" />
+        <IXLNode progId="25" id="21233" />
+        <IXLNode progId="26" id="14709" />
+        <IXLNode progId="27" id="4276" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="Uln3ZCjQrcxk1qw2l0KnNw==" name="Greccio" isOriginGraph="true">
+          <plantID>168</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="168" name="02-23" optional="-" extendedName="0066-0068" startPointId="3671" endPointId="4187" direction="S" signalId="4441" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2988" name="120" />
+        <TrackCircuit progId="1" id="2929" name="121" />
+        <TrackCircuit progId="2" id="2783" name="122" />
+        <TrackCircuit progId="3" id="2809" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="854">
+          <Switch side="1" switchMotorId="1871" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4441" />
+        <IXLNode progId="1" id="14982" />
+        <IXLNode progId="2" id="21251" />
+        <IXLNode progId="3" id="15119" />
+        <IXLNode progId="4" id="26032" />
+        <IXLNode progId="5" id="34679" />
+        <IXLNode progId="6" id="21187" />
+        <IXLNode progId="7" id="34677" />
+        <IXLNode progId="8" id="6424" />
+        <IXLNode progId="9" id="14545" />
+        <IXLNode progId="10" id="14442" />
+        <IXLNode progId="11" id="10594" />
+        <IXLNode progId="12" id="34675" />
+        <IXLNode progId="13" id="21168" />
+        <IXLNode progId="14" id="34673" />
+        <IXLNode progId="15" id="854" />
+        <IXLNode progId="16" id="25926" />
+        <IXLNode progId="17" id="1809" />
+        <IXLNode progId="18" id="28064" />
+        <IXLNode progId="19" id="34669" />
+        <IXLNode progId="20" id="21130" />
+        <IXLNode progId="21" id="14905" />
+        <IXLNode progId="22" id="11798" />
+        <IXLNode progId="23" id="4604" />
+        <IXLNode progId="24" id="14060" />
+        <IXLNode progId="25" id="28215" />
+        <IXLNode progId="26" id="1264" />
+        <IXLNode progId="27" id="28163" />
+        <IXLNode progId="28" id="13681" />
+        <IXLNode progId="29" id="4768" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="Uln3ZCjQrcxk1qw2l0KnNw==" name="Greccio" isOriginGraph="true">
+          <plantID>168</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="168" name="02-24" optional="-" extendedName="0066-0068-1" startPointId="3671" endPointId="4206" direction="S" signalId="4441" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2988" name="120" />
+        <TrackCircuit progId="1" id="2929" name="121" />
+        <TrackCircuit progId="2" id="2783" name="122" />
+        <TrackCircuit progId="3" id="2796" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="854">
+          <Switch side="1" switchMotorId="1871" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4441" />
+        <IXLNode progId="1" id="14982" />
+        <IXLNode progId="2" id="21251" />
+        <IXLNode progId="3" id="15119" />
+        <IXLNode progId="4" id="26032" />
+        <IXLNode progId="5" id="34679" />
+        <IXLNode progId="6" id="21187" />
+        <IXLNode progId="7" id="34677" />
+        <IXLNode progId="8" id="6424" />
+        <IXLNode progId="9" id="14545" />
+        <IXLNode progId="10" id="14442" />
+        <IXLNode progId="11" id="10594" />
+        <IXLNode progId="12" id="34675" />
+        <IXLNode progId="13" id="21168" />
+        <IXLNode progId="14" id="34673" />
+        <IXLNode progId="15" id="854" />
+        <IXLNode progId="16" id="25911" />
+        <IXLNode progId="17" id="1791" />
+        <IXLNode progId="18" id="34671" />
+        <IXLNode progId="19" id="21149" />
+        <IXLNode progId="20" id="14944" />
+        <IXLNode progId="21" id="11840" />
+        <IXLNode progId="22" id="4673" />
+        <IXLNode progId="23" id="13810" />
+        <IXLNode progId="24" id="32983" />
+        <IXLNode progId="25" id="32775" />
+        <IXLNode progId="26" id="16996" />
+        <IXLNode progId="27" id="28322" />
+        <IXLNode progId="28" id="1245" />
+        <IXLNode progId="29" id="27766" />
+        <IXLNode progId="30" id="27887" />
+        <IXLNode progId="31" id="13504" />
+        <IXLNode progId="32" id="4807" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="Uln3ZCjQrcxk1qw2l0KnNw==" name="Greccio" isOriginGraph="true">
+          <plantID>168</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="170" name="01-43" optional="-" extendedName="0013-0015" startPointId="3042" endPointId="3434" direction="D" signalId="3753" speed="VL" trackItem="01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3059" name="110" />
+        <TrackCircuit progId="1" id="3114" name="111" />
+        <TrackCircuit progId="2" id="3175" name="112" />
+        <TrackCircuit progId="3" id="2808" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="960">
+          <Switch side="1" switchMotorId="1714" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="3753" />
+        <IXLNode progId="1" id="13715" />
+        <IXLNode progId="2" id="20624" />
+        <IXLNode progId="3" id="13752" />
+        <IXLNode progId="4" id="30650" />
+        <IXLNode progId="5" id="31234" />
+        <IXLNode progId="6" id="20445" />
+        <IXLNode progId="7" id="31236" />
+        <IXLNode progId="8" id="5102" />
+        <IXLNode progId="9" id="12336" />
+        <IXLNode progId="10" id="3100" />
+        <IXLNode progId="11" id="10136" />
+        <IXLNode progId="12" id="31238" />
+        <IXLNode progId="13" id="20464" />
+        <IXLNode progId="14" id="31240" />
+        <IXLNode progId="15" id="960" />
+        <IXLNode progId="16" id="24745" />
+        <IXLNode progId="17" id="29802" />
+        <IXLNode progId="18" id="31242" />
+        <IXLNode progId="19" id="20483" />
+        <IXLNode progId="20" id="13677" />
+        <IXLNode progId="21" id="10603" />
+        <IXLNode progId="22" id="4086" />
+        <IXLNode progId="23" id="12604" />
+        <IXLNode progId="24" id="19410" />
+        <IXLNode progId="25" id="29614" />
+        <IXLNode progId="26" id="12648" />
+        <IXLNode progId="27" id="1142" />
+        <IXLNode progId="28" id="19275" />
+        <IXLNode progId="29" id="12781" />
+        <IXLNode progId="30" id="4164" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="x68bJ+L5nDP0NbN1B08B8A==" name="Contigliano" isOriginGraph="true">
+          <plantID>170</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="170" name="01-44" optional="-" extendedName="0013-0015-1" startPointId="3042" endPointId="3453" direction="D" signalId="3753" speed="30" trackItem="01_D01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3059" name="110" />
+        <TrackCircuit progId="1" id="3114" name="111" />
+        <TrackCircuit progId="2" id="3175" name="112" />
+        <TrackCircuit progId="3" id="2795" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="960">
+          <Switch side="1" switchMotorId="1714" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="26851">
+          <Switch side="1" switchMotorId="27120" switchMotorName="101" switchMotorNumber="101" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="3753" />
+        <IXLNode progId="1" id="13715" />
+        <IXLNode progId="2" id="20624" />
+        <IXLNode progId="3" id="13752" />
+        <IXLNode progId="4" id="30650" />
+        <IXLNode progId="5" id="31234" />
+        <IXLNode progId="6" id="20445" />
+        <IXLNode progId="7" id="31236" />
+        <IXLNode progId="8" id="5102" />
+        <IXLNode progId="9" id="12336" />
+        <IXLNode progId="10" id="3100" />
+        <IXLNode progId="11" id="10136" />
+        <IXLNode progId="12" id="31238" />
+        <IXLNode progId="13" id="20464" />
+        <IXLNode progId="14" id="31240" />
+        <IXLNode progId="15" id="960" />
+        <IXLNode progId="16" id="24760" />
+        <IXLNode progId="17" id="26851" />
+        <IXLNode progId="18" id="29821" />
+        <IXLNode progId="19" id="27527" />
+        <IXLNode progId="20" id="31244" />
+        <IXLNode progId="21" id="20502" />
+        <IXLNode progId="22" id="13639" />
+        <IXLNode progId="23" id="10623" />
+        <IXLNode progId="24" id="4125" />
+        <IXLNode progId="25" id="12515" />
+        <IXLNode progId="26" id="26711" />
+        <IXLNode progId="27" id="12560" />
+        <IXLNode progId="28" id="15542" />
+        <IXLNode progId="29" id="1161" />
+        <IXLNode progId="30" id="15586" />
+        <IXLNode progId="31" id="27973" />
+        <IXLNode progId="32" id="26652" />
+        <IXLNode progId="33" id="12915" />
+        <IXLNode progId="34" id="4203" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="x68bJ+L5nDP0NbN1B08B8A==" name="Contigliano" isOriginGraph="true">
+          <plantID>170</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="170" name="02-23" optional="-" extendedName="0062-0064" startPointId="2691" endPointId="3664" direction="S" signalId="3895" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2416" name="120" />
+        <TrackCircuit progId="1" id="2403" name="121" />
+        <TrackCircuit progId="2" id="2782" name="122" />
+        <TrackCircuit progId="3" id="2808" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="982">
+          <Switch side="1" switchMotorId="1804" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="3895" />
+        <IXLNode progId="1" id="13450" />
+        <IXLNode progId="2" id="20642" />
+        <IXLNode progId="3" id="13822" />
+        <IXLNode progId="4" id="24957" />
+        <IXLNode progId="5" id="31256" />
+        <IXLNode progId="6" id="20578" />
+        <IXLNode progId="7" id="31254" />
+        <IXLNode progId="8" id="5437" />
+        <IXLNode progId="9" id="13272" />
+        <IXLNode progId="10" id="2214" />
+        <IXLNode progId="11" id="5898" />
+        <IXLNode progId="12" id="5686" />
+        <IXLNode progId="13" id="5701" />
+        <IXLNode progId="14" id="10197" />
+        <IXLNode progId="15" id="31252" />
+        <IXLNode progId="16" id="20559" />
+        <IXLNode progId="17" id="31250" />
+        <IXLNode progId="18" id="29703" />
+        <IXLNode progId="19" id="982" />
+        <IXLNode progId="20" id="24840" />
+        <IXLNode progId="21" id="2708" />
+        <IXLNode progId="22" id="31246" />
+        <IXLNode progId="23" id="20521" />
+        <IXLNode progId="24" id="13600" />
+        <IXLNode progId="25" id="11231" />
+        <IXLNode progId="26" id="4164" />
+        <IXLNode progId="27" id="12781" />
+        <IXLNode progId="28" id="19275" />
+        <IXLNode progId="29" id="1142" />
+        <IXLNode progId="30" id="12648" />
+        <IXLNode progId="31" id="29614" />
+        <IXLNode progId="32" id="19410" />
+        <IXLNode progId="33" id="12604" />
+        <IXLNode progId="34" id="4086" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="x68bJ+L5nDP0NbN1B08B8A==" name="Contigliano" isOriginGraph="true">
+          <plantID>170</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="170" name="02-24" optional="-" extendedName="0062-0064-1" startPointId="2691" endPointId="3683" direction="S" signalId="3895" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2416" name="120" />
+        <TrackCircuit progId="1" id="2403" name="121" />
+        <TrackCircuit progId="2" id="2782" name="122" />
+        <TrackCircuit progId="3" id="2795" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="982">
+          <Switch side="1" switchMotorId="1804" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="3895" />
+        <IXLNode progId="1" id="13450" />
+        <IXLNode progId="2" id="20642" />
+        <IXLNode progId="3" id="13822" />
+        <IXLNode progId="4" id="24957" />
+        <IXLNode progId="5" id="31256" />
+        <IXLNode progId="6" id="20578" />
+        <IXLNode progId="7" id="31254" />
+        <IXLNode progId="8" id="5437" />
+        <IXLNode progId="9" id="13272" />
+        <IXLNode progId="10" id="2214" />
+        <IXLNode progId="11" id="5898" />
+        <IXLNode progId="12" id="5686" />
+        <IXLNode progId="13" id="5701" />
+        <IXLNode progId="14" id="10197" />
+        <IXLNode progId="15" id="31252" />
+        <IXLNode progId="16" id="20559" />
+        <IXLNode progId="17" id="31250" />
+        <IXLNode progId="18" id="29703" />
+        <IXLNode progId="19" id="982" />
+        <IXLNode progId="20" id="24790" />
+        <IXLNode progId="21" id="2726" />
+        <IXLNode progId="22" id="31248" />
+        <IXLNode progId="23" id="20540" />
+        <IXLNode progId="24" id="13527" />
+        <IXLNode progId="25" id="11251" />
+        <IXLNode progId="26" id="4203" />
+        <IXLNode progId="27" id="12915" />
+        <IXLNode progId="28" id="26652" />
+        <IXLNode progId="29" id="27973" />
+        <IXLNode progId="30" id="15586" />
+        <IXLNode progId="31" id="1161" />
+        <IXLNode progId="32" id="15542" />
+        <IXLNode progId="33" id="12560" />
+        <IXLNode progId="34" id="26711" />
+        <IXLNode progId="35" id="12515" />
+        <IXLNode progId="36" id="4125" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="x68bJ+L5nDP0NbN1B08B8A==" name="Contigliano" isOriginGraph="true">
+          <plantID>170</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="168" name="43-02" optional="-" extendedName="0011-0066" startPointId="3902" endPointId="3671" direction="D" signalId="4604" speed="VL" trackItem="II" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2783" name="122" />
+        <TrackCircuit progId="1" id="2929" name="121" />
+        <TrackCircuit progId="2" id="2988" name="120" />
+        <TrackCircuit progId="3" id="66796" name="BCA02_169" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="854">
+          <Switch side="1" switchMotorId="1871" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4604" />
+        <IXLNode progId="1" id="11798" />
+        <IXLNode progId="2" id="14905" />
+        <IXLNode progId="3" id="21130" />
+        <IXLNode progId="4" id="34669" />
+        <IXLNode progId="5" id="28064" />
+        <IXLNode progId="6" id="1809" />
+        <IXLNode progId="7" id="25926" />
+        <IXLNode progId="8" id="854" />
+        <IXLNode progId="9" id="34673" />
+        <IXLNode progId="10" id="21168" />
+        <IXLNode progId="11" id="34675" />
+        <IXLNode progId="12" id="10594" />
+        <IXLNode progId="13" id="14442" />
+        <IXLNode progId="14" id="14545" />
+        <IXLNode progId="15" id="6424" />
+        <IXLNode progId="16" id="34677" />
+        <IXLNode progId="17" id="21187" />
+        <IXLNode progId="18" id="34679" />
+        <IXLNode progId="19" id="26032" />
+        <IXLNode progId="20" id="15119" />
+        <IXLNode progId="21" id="21251" />
+        <IXLNode progId="22" id="14982" />
+        <IXLNode progId="23" id="4441" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="Uln3ZCjQrcxk1qw2l0KnNw==" name="Greccio" isOriginGraph="true">
+          <plantID>168</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="168" name="44-02" optional="-" extendedName="0011-1-0066" startPointId="3921" endPointId="3671" direction="D" signalId="4673" speed="30" trackItem="01_D01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2783" name="122" />
+        <TrackCircuit progId="1" id="2929" name="121" />
+        <TrackCircuit progId="2" id="2988" name="120" />
+        <TrackCircuit progId="3" id="66796" name="BCA02_169" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="854">
+          <Switch side="1" switchMotorId="1871" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4673" />
+        <IXLNode progId="1" id="11840" />
+        <IXLNode progId="2" id="14944" />
+        <IXLNode progId="3" id="21149" />
+        <IXLNode progId="4" id="34671" />
+        <IXLNode progId="5" id="1791" />
+        <IXLNode progId="6" id="25911" />
+        <IXLNode progId="7" id="854" />
+        <IXLNode progId="8" id="34673" />
+        <IXLNode progId="9" id="21168" />
+        <IXLNode progId="10" id="34675" />
+        <IXLNode progId="11" id="10594" />
+        <IXLNode progId="12" id="14442" />
+        <IXLNode progId="13" id="14545" />
+        <IXLNode progId="14" id="6424" />
+        <IXLNode progId="15" id="34677" />
+        <IXLNode progId="16" id="21187" />
+        <IXLNode progId="17" id="34679" />
+        <IXLNode progId="18" id="26032" />
+        <IXLNode progId="19" id="15119" />
+        <IXLNode progId="20" id="21251" />
+        <IXLNode progId="21" id="14982" />
+        <IXLNode progId="22" id="4441" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="Uln3ZCjQrcxk1qw2l0KnNw==" name="Greccio" isOriginGraph="true">
+          <plantID>168</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="170" name="23-01" optional="-" extendedName="0064-0013" startPointId="3664" endPointId="3042" direction="S" signalId="4086" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3175" name="112" />
+        <TrackCircuit progId="1" id="3114" name="111" />
+        <TrackCircuit progId="2" id="3059" name="110" />
+        <TrackCircuit progId="3" id="66797" name="BCA02_169" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="960">
+          <Switch side="1" switchMotorId="1714" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4086" />
+        <IXLNode progId="1" id="10603" />
+        <IXLNode progId="2" id="13677" />
+        <IXLNode progId="3" id="20483" />
+        <IXLNode progId="4" id="31242" />
+        <IXLNode progId="5" id="29802" />
+        <IXLNode progId="6" id="24745" />
+        <IXLNode progId="7" id="960" />
+        <IXLNode progId="8" id="31240" />
+        <IXLNode progId="9" id="20464" />
+        <IXLNode progId="10" id="31238" />
+        <IXLNode progId="11" id="10136" />
+        <IXLNode progId="12" id="3100" />
+        <IXLNode progId="13" id="12336" />
+        <IXLNode progId="14" id="5102" />
+        <IXLNode progId="15" id="31236" />
+        <IXLNode progId="16" id="20445" />
+        <IXLNode progId="17" id="31234" />
+        <IXLNode progId="18" id="30650" />
+        <IXLNode progId="19" id="13752" />
+        <IXLNode progId="20" id="20624" />
+        <IXLNode progId="21" id="13715" />
+        <IXLNode progId="22" id="3753" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="x68bJ+L5nDP0NbN1B08B8A==" name="Contigliano" isOriginGraph="true">
+          <plantID>170</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="170" name="24-01" optional="-" extendedName="0064-1-0013" startPointId="3683" endPointId="3042" direction="S" signalId="4125" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3175" name="112" />
+        <TrackCircuit progId="1" id="3114" name="111" />
+        <TrackCircuit progId="2" id="3059" name="110" />
+        <TrackCircuit progId="3" id="66797" name="BCA02_169" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="26851">
+          <Switch side="1" switchMotorId="27120" switchMotorName="101" switchMotorNumber="101" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="960">
+          <Switch side="1" switchMotorId="1714" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4125" />
+        <IXLNode progId="1" id="10623" />
+        <IXLNode progId="2" id="13639" />
+        <IXLNode progId="3" id="20502" />
+        <IXLNode progId="4" id="31244" />
+        <IXLNode progId="5" id="27527" />
+        <IXLNode progId="6" id="29821" />
+        <IXLNode progId="7" id="26851" />
+        <IXLNode progId="8" id="24760" />
+        <IXLNode progId="9" id="960" />
+        <IXLNode progId="10" id="31240" />
+        <IXLNode progId="11" id="20464" />
+        <IXLNode progId="12" id="31238" />
+        <IXLNode progId="13" id="10136" />
+        <IXLNode progId="14" id="3100" />
+        <IXLNode progId="15" id="12336" />
+        <IXLNode progId="16" id="5102" />
+        <IXLNode progId="17" id="31236" />
+        <IXLNode progId="18" id="20445" />
+        <IXLNode progId="19" id="31234" />
+        <IXLNode progId="20" id="30650" />
+        <IXLNode progId="21" id="13752" />
+        <IXLNode progId="22" id="20624" />
+        <IXLNode progId="23" id="13715" />
+        <IXLNode progId="24" id="3753" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="x68bJ+L5nDP0NbN1B08B8A==" name="Contigliano" isOriginGraph="true">
+          <plantID>170</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="170" name="43-02" optional="-" extendedName="0015-0062" startPointId="3434" endPointId="2691" direction="D" signalId="4164" speed="VL" trackItem="01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2782" name="122" />
+        <TrackCircuit progId="1" id="2403" name="121" />
+        <TrackCircuit progId="2" id="2416" name="120" />
+        <TrackCircuit progId="3" id="67088" name="BCA02_171" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="982">
+          <Switch side="1" switchMotorId="1804" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4164" />
+        <IXLNode progId="1" id="11231" />
+        <IXLNode progId="2" id="13600" />
+        <IXLNode progId="3" id="20521" />
+        <IXLNode progId="4" id="31246" />
+        <IXLNode progId="5" id="2708" />
+        <IXLNode progId="6" id="24840" />
+        <IXLNode progId="7" id="982" />
+        <IXLNode progId="8" id="29703" />
+        <IXLNode progId="9" id="31250" />
+        <IXLNode progId="10" id="20559" />
+        <IXLNode progId="11" id="31252" />
+        <IXLNode progId="12" id="10197" />
+        <IXLNode progId="13" id="5701" />
+        <IXLNode progId="14" id="5686" />
+        <IXLNode progId="15" id="5898" />
+        <IXLNode progId="16" id="2214" />
+        <IXLNode progId="17" id="13272" />
+        <IXLNode progId="18" id="5437" />
+        <IXLNode progId="19" id="31254" />
+        <IXLNode progId="20" id="20578" />
+        <IXLNode progId="21" id="31256" />
+        <IXLNode progId="22" id="24957" />
+        <IXLNode progId="23" id="13822" />
+        <IXLNode progId="24" id="20642" />
+        <IXLNode progId="25" id="13450" />
+        <IXLNode progId="26" id="3895" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="x68bJ+L5nDP0NbN1B08B8A==" name="Contigliano" isOriginGraph="true">
+          <plantID>170</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="170" name="44-02" optional="-" extendedName="0015-1-0062" startPointId="3453" endPointId="2691" direction="D" signalId="4203" speed="30" trackItem="01_D01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="2782" name="122" />
+        <TrackCircuit progId="1" id="2403" name="121" />
+        <TrackCircuit progId="2" id="2416" name="120" />
+        <TrackCircuit progId="3" id="67088" name="BCA02_171" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="982">
+          <Switch side="1" switchMotorId="1804" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4203" />
+        <IXLNode progId="1" id="11251" />
+        <IXLNode progId="2" id="13527" />
+        <IXLNode progId="3" id="20540" />
+        <IXLNode progId="4" id="31248" />
+        <IXLNode progId="5" id="2726" />
+        <IXLNode progId="6" id="24790" />
+        <IXLNode progId="7" id="982" />
+        <IXLNode progId="8" id="29703" />
+        <IXLNode progId="9" id="31250" />
+        <IXLNode progId="10" id="20559" />
+        <IXLNode progId="11" id="31252" />
+        <IXLNode progId="12" id="10197" />
+        <IXLNode progId="13" id="5701" />
+        <IXLNode progId="14" id="5686" />
+        <IXLNode progId="15" id="5898" />
+        <IXLNode progId="16" id="2214" />
+        <IXLNode progId="17" id="13272" />
+        <IXLNode progId="18" id="5437" />
+        <IXLNode progId="19" id="31254" />
+        <IXLNode progId="20" id="20578" />
+        <IXLNode progId="21" id="31256" />
+        <IXLNode progId="22" id="24957" />
+        <IXLNode progId="23" id="13822" />
+        <IXLNode progId="24" id="20642" />
+        <IXLNode progId="25" id="13450" />
+        <IXLNode progId="26" id="3895" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="x68bJ+L5nDP0NbN1B08B8A==" name="Contigliano" isOriginGraph="true">
+          <plantID>170</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="01-03d" optional="-" extendedName="S01-S03d" startPointId="19649" endPointId="20456" direction="D" signalId="2447" speed="VL" trackItem="II" usedForLogic="false">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="1292" name="110" />
+        <TrackCircuit progId="1" id="1306" name="111" />
+        <TrackCircuit progId="2" id="1338" name="112" />
+        <TrackCircuit progId="3" id="1370" name="113" />
+        <TrackCircuit progId="4" id="1402" name="114" />
+        <TrackCircuit progId="5" id="1434" name="115" />
+        <TrackCircuit progId="6" id="1466" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="8489">
+          <Switch side="1" switchMotorId="8670" switchMotorName="01b" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="9042">
+          <Switch side="1" switchMotorId="9108" switchMotorName="07b" switchMotorNumber="07" switchMotorState="1" />
+        </Point>
+        <Point progId="2" id="9423">
+          <Switch side="1" switchMotorId="9554" switchMotorName="09a" switchMotorNumber="09" switchMotorState="1" />
+        </Point>
+        <Point progId="3" id="51847">
+          <Switch side="1" switchMotorId="51992" switchMotorName="13b" switchMotorNumber="13" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="2447" />
+        <IXLNode progId="1" id="1189" />
+        <IXLNode progId="2" id="1237" />
+        <IXLNode progId="3" id="20056" />
+        <IXLNode progId="4" id="20104" />
+        <IXLNode progId="5" id="26906" />
+        <IXLNode progId="6" id="21068" />
+        <IXLNode progId="7" id="1256" />
+        <IXLNode progId="8" id="8489" />
+        <IXLNode progId="9" id="8594" />
+        <IXLNode progId="10" id="1319" />
+        <IXLNode progId="11" id="21179" />
+        <IXLNode progId="12" id="1351" />
+        <IXLNode progId="13" id="9042" />
+        <IXLNode progId="14" id="9256" />
+        <IXLNode progId="15" id="1383" />
+        <IXLNode progId="16" id="57734" />
+        <IXLNode progId="17" id="9423" />
+        <IXLNode progId="18" id="51847" />
+        <IXLNode progId="19" id="51889" />
+        <IXLNode progId="20" id="52010" />
+        <IXLNode progId="21" id="52143" />
+        <IXLNode progId="22" id="1415" />
+        <IXLNode progId="23" id="21760" />
+        <IXLNode progId="24" id="2749" />
+        <IXLNode progId="25" id="15115" />
+        <IXLNode progId="26" id="15979" />
+        <IXLNode progId="27" id="32073" />
+        <IXLNode progId="28" id="29006" />
+        <IXLNode progId="29" id="15552" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="09d-24" optional="-" extendedName="S09d-S24" startPointId="25694" endPointId="19581" direction="D" signalId="16309" speed="30" trackItem="T7385_D08b_D24a-06bCN2_T63101" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="7686" name="254" />
+        <TrackCircuit progId="1" id="7287" name="253" />
+        <TrackCircuit progId="2" id="7300" name="252" />
+        <TrackCircuit progId="3" id="7313" name="251" />
+        <TrackCircuit progId="4" id="7326" name="250" />
+        <TrackCircuit progId="5" id="7339" name="242" />
+        <TrackCircuit progId="6" id="7352" name="241" />
+        <TrackCircuit progId="7" id="7365" name="240" />
+        <TrackCircuit progId="8" id="66788" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="13454">
+          <Switch side="1" switchMotorId="13512" switchMotorName="08b" switchMotorNumber="08" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="13432">
+          <Switch side="1" switchMotorId="13530" switchMotorName="08a" switchMotorNumber="08" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="12157">
+          <Switch side="1" switchMotorId="52652" switchMotorName="24a" switchMotorNumber="24" switchMotorState="1" />
+          <Switch side="2" switchMotorId="52697" switchMotorName="06b" switchMotorNumber="06" switchMotorState="1" />
+        </Point>
+        <Point progId="3" id="52446">
+          <Switch side="1" switchMotorId="52716" switchMotorName="04a" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="4" id="14314">
+          <Switch side="1" switchMotorId="15262" switchMotorName="108" switchMotorNumber="108" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="16309" />
+        <IXLNode progId="1" id="21882" />
+        <IXLNode progId="2" id="41836" />
+        <IXLNode progId="3" id="7468" />
+        <IXLNode progId="4" id="25713" />
+        <IXLNode progId="5" id="13454" />
+        <IXLNode progId="6" id="13560" />
+        <IXLNode progId="7" id="66777" />
+        <IXLNode progId="8" id="13493" />
+        <IXLNode progId="9" id="13578" />
+        <IXLNode progId="10" id="13432" />
+        <IXLNode progId="11" id="66759" />
+        <IXLNode progId="12" id="7097" />
+        <IXLNode progId="13" id="52912" />
+        <IXLNode progId="14" id="12157" />
+        <IXLNode progId="15" id="52996" />
+        <IXLNode progId="16" id="52446" />
+        <IXLNode progId="17" id="52751" />
+        <IXLNode progId="18" id="66761" />
+        <IXLNode progId="19" id="7116" />
+        <IXLNode progId="20" id="50934" />
+        <IXLNode progId="21" id="29506" />
+        <IXLNode progId="22" id="33506" />
+        <IXLNode progId="23" id="66763" />
+        <IXLNode progId="24" id="7135" />
+        <IXLNode progId="25" id="66765" />
+        <IXLNode progId="26" id="7158" />
+        <IXLNode progId="27" id="18920" />
+        <IXLNode progId="28" id="64747" />
+        <IXLNode progId="29" id="66767" />
+        <IXLNode progId="30" id="7177" />
+        <IXLNode progId="31" id="28141" />
+        <IXLNode progId="32" id="19945" />
+        <IXLNode progId="33" id="19930" />
+        <IXLNode progId="34" id="28321" />
+        <IXLNode progId="35" id="27938" />
+        <IXLNode progId="36" id="27923" />
+        <IXLNode progId="37" id="14314" />
+        <IXLNode progId="38" id="23184" />
+        <IXLNode progId="39" id="23727" />
+        <IXLNode progId="40" id="19464" />
+        <IXLNode progId="41" id="66769" />
+        <IXLNode progId="42" id="7198" />
+        <IXLNode progId="43" id="19729" />
+        <IXLNode progId="44" id="30519" />
+        <IXLNode progId="45" id="40202" />
+        <IXLNode progId="46" id="7217" />
+        <IXLNode progId="47" id="19101" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="07d-24" optional="-" extendedName="S07d-S24" startPointId="20418" endPointId="19581" direction="D" signalId="16057" speed="VL" trackItem="01_D01b_D09b_D13b_D24a-06bCN2_24" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="7287" name="253" />
+        <TrackCircuit progId="1" id="7300" name="252" />
+        <TrackCircuit progId="2" id="7313" name="251" />
+        <TrackCircuit progId="3" id="7326" name="250" />
+        <TrackCircuit progId="4" id="7339" name="242" />
+        <TrackCircuit progId="5" id="7352" name="241" />
+        <TrackCircuit progId="6" id="7365" name="240" />
+        <TrackCircuit progId="7" id="66788" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="13432">
+          <Switch side="1" switchMotorId="13530" switchMotorName="08a" switchMotorNumber="08" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="12157">
+          <Switch side="1" switchMotorId="52652" switchMotorName="24a" switchMotorNumber="24" switchMotorState="1" />
+          <Switch side="2" switchMotorId="52697" switchMotorName="06b" switchMotorNumber="06" switchMotorState="1" />
+        </Point>
+        <Point progId="2" id="52446">
+          <Switch side="1" switchMotorId="52716" switchMotorName="04a" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="3" id="14314">
+          <Switch side="1" switchMotorId="15262" switchMotorName="108" switchMotorNumber="108" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="16057" />
+        <IXLNode progId="1" id="21844" />
+        <IXLNode progId="2" id="41880" />
+        <IXLNode progId="3" id="7078" />
+        <IXLNode progId="4" id="22807" />
+        <IXLNode progId="5" id="13617" />
+        <IXLNode progId="6" id="13432" />
+        <IXLNode progId="7" id="66759" />
+        <IXLNode progId="8" id="7097" />
+        <IXLNode progId="9" id="52912" />
+        <IXLNode progId="10" id="12157" />
+        <IXLNode progId="11" id="52996" />
+        <IXLNode progId="12" id="52446" />
+        <IXLNode progId="13" id="52751" />
+        <IXLNode progId="14" id="66761" />
+        <IXLNode progId="15" id="7116" />
+        <IXLNode progId="16" id="50934" />
+        <IXLNode progId="17" id="29506" />
+        <IXLNode progId="18" id="33506" />
+        <IXLNode progId="19" id="66763" />
+        <IXLNode progId="20" id="7135" />
+        <IXLNode progId="21" id="66765" />
+        <IXLNode progId="22" id="7158" />
+        <IXLNode progId="23" id="18920" />
+        <IXLNode progId="24" id="64747" />
+        <IXLNode progId="25" id="66767" />
+        <IXLNode progId="26" id="7177" />
+        <IXLNode progId="27" id="28141" />
+        <IXLNode progId="28" id="19945" />
+        <IXLNode progId="29" id="19930" />
+        <IXLNode progId="30" id="28321" />
+        <IXLNode progId="31" id="27938" />
+        <IXLNode progId="32" id="27923" />
+        <IXLNode progId="33" id="14314" />
+        <IXLNode progId="34" id="23184" />
+        <IXLNode progId="35" id="23727" />
+        <IXLNode progId="36" id="19464" />
+        <IXLNode progId="37" id="66769" />
+        <IXLNode progId="38" id="7198" />
+        <IXLNode progId="39" id="19729" />
+        <IXLNode progId="40" id="30519" />
+        <IXLNode progId="41" id="40202" />
+        <IXLNode progId="42" id="7217" />
+        <IXLNode progId="43" id="19101" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="03d-24" optional="-" extendedName="S03d-S24" startPointId="20456" endPointId="19581" direction="D" signalId="15552" speed="30" trackItem="01_D07b_D09b_D06a_D24a-06bCN2_24" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="1498" name="514" />
+        <TrackCircuit progId="1" id="1530" name="513" />
+        <TrackCircuit progId="2" id="7300" name="252" />
+        <TrackCircuit progId="3" id="7313" name="251" />
+        <TrackCircuit progId="4" id="7326" name="250" />
+        <TrackCircuit progId="5" id="7339" name="242" />
+        <TrackCircuit progId="6" id="7352" name="241" />
+        <TrackCircuit progId="7" id="7365" name="240" />
+        <TrackCircuit progId="8" id="66788" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="12641">
+          <Switch side="1" switchMotorId="12809" switchMotorName="10b" switchMotorNumber="10" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="12045">
+          <Switch side="1" switchMotorId="12293" switchMotorName="06a" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="12157">
+          <Switch side="1" switchMotorId="52652" switchMotorName="24a" switchMotorNumber="24" switchMotorState="1" />
+          <Switch side="2" switchMotorId="52697" switchMotorName="06b" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="52446">
+          <Switch side="1" switchMotorId="52716" switchMotorName="04a" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="4" id="14314">
+          <Switch side="1" switchMotorId="15262" switchMotorName="108" switchMotorNumber="108" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="15552" />
+        <IXLNode progId="1" id="23103" />
+        <IXLNode progId="2" id="41905" />
+        <IXLNode progId="3" id="7506" />
+        <IXLNode progId="4" id="23206" />
+        <IXLNode progId="5" id="12913" />
+        <IXLNode progId="6" id="12641" />
+        <IXLNode progId="7" id="66755" />
+        <IXLNode progId="8" id="1479" />
+        <IXLNode progId="9" id="12045" />
+        <IXLNode progId="10" id="52894" />
+        <IXLNode progId="11" id="66773" />
+        <IXLNode progId="12" id="12187" />
+        <IXLNode progId="13" id="52856" />
+        <IXLNode progId="14" id="12157" />
+        <IXLNode progId="15" id="52996" />
+        <IXLNode progId="16" id="52446" />
+        <IXLNode progId="17" id="52751" />
+        <IXLNode progId="18" id="66761" />
+        <IXLNode progId="19" id="7116" />
+        <IXLNode progId="20" id="50934" />
+        <IXLNode progId="21" id="29506" />
+        <IXLNode progId="22" id="33506" />
+        <IXLNode progId="23" id="66763" />
+        <IXLNode progId="24" id="7135" />
+        <IXLNode progId="25" id="66765" />
+        <IXLNode progId="26" id="7158" />
+        <IXLNode progId="27" id="18920" />
+        <IXLNode progId="28" id="64747" />
+        <IXLNode progId="29" id="66767" />
+        <IXLNode progId="30" id="7177" />
+        <IXLNode progId="31" id="28141" />
+        <IXLNode progId="32" id="19945" />
+        <IXLNode progId="33" id="19930" />
+        <IXLNode progId="34" id="28321" />
+        <IXLNode progId="35" id="27938" />
+        <IXLNode progId="36" id="27923" />
+        <IXLNode progId="37" id="14314" />
+        <IXLNode progId="38" id="23184" />
+        <IXLNode progId="39" id="23727" />
+        <IXLNode progId="40" id="19464" />
+        <IXLNode progId="41" id="66769" />
+        <IXLNode progId="42" id="7198" />
+        <IXLNode progId="43" id="19729" />
+        <IXLNode progId="44" id="30519" />
+        <IXLNode progId="45" id="40202" />
+        <IXLNode progId="46" id="7217" />
+        <IXLNode progId="47" id="19101" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="04d-24" optional="-" extendedName="S04d-S24" startPointId="20475" endPointId="19581" direction="D" signalId="16559" speed="30" trackItem="01_D07b_D10a_D06a_D24a-06bCN2_24" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="1827" name="214" />
+        <TrackCircuit progId="1" id="1795" name="213" />
+        <TrackCircuit progId="2" id="1498" name="514" />
+        <TrackCircuit progId="3" id="1530" name="513" />
+        <TrackCircuit progId="4" id="7300" name="252" />
+        <TrackCircuit progId="5" id="7313" name="251" />
+        <TrackCircuit progId="6" id="7326" name="250" />
+        <TrackCircuit progId="7" id="7339" name="242" />
+        <TrackCircuit progId="8" id="7352" name="241" />
+        <TrackCircuit progId="9" id="7365" name="240" />
+        <TrackCircuit progId="10" id="66788" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="4686">
+          <Switch side="1" switchMotorId="10886" switchMotorName="12b" switchMotorNumber="12" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="12663">
+          <Switch side="1" switchMotorId="12845" switchMotorName="10a" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="12641">
+          <Switch side="1" switchMotorId="12809" switchMotorName="10b" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="12045">
+          <Switch side="1" switchMotorId="12293" switchMotorName="06a" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="4" id="12157">
+          <Switch side="1" switchMotorId="52652" switchMotorName="24a" switchMotorNumber="24" switchMotorState="1" />
+          <Switch side="2" switchMotorId="52697" switchMotorName="06b" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="5" id="52446">
+          <Switch side="1" switchMotorId="52716" switchMotorName="04a" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="6" id="14314">
+          <Switch side="1" switchMotorId="15262" switchMotorName="108" switchMotorNumber="108" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="16559" />
+        <IXLNode progId="1" id="21682" />
+        <IXLNode progId="2" id="41930" />
+        <IXLNode progId="3" id="1808" />
+        <IXLNode progId="4" id="22837" />
+        <IXLNode progId="5" id="58640" />
+        <IXLNode progId="6" id="4686" />
+        <IXLNode progId="7" id="66757" />
+        <IXLNode progId="8" id="1776" />
+        <IXLNode progId="9" id="12663" />
+        <IXLNode progId="10" id="12875" />
+        <IXLNode progId="11" id="66775" />
+        <IXLNode progId="12" id="12696" />
+        <IXLNode progId="13" id="12893" />
+        <IXLNode progId="14" id="12641" />
+        <IXLNode progId="15" id="66755" />
+        <IXLNode progId="16" id="1479" />
+        <IXLNode progId="17" id="12045" />
+        <IXLNode progId="18" id="52894" />
+        <IXLNode progId="19" id="66773" />
+        <IXLNode progId="20" id="12187" />
+        <IXLNode progId="21" id="52856" />
+        <IXLNode progId="22" id="12157" />
+        <IXLNode progId="23" id="52996" />
+        <IXLNode progId="24" id="52446" />
+        <IXLNode progId="25" id="52751" />
+        <IXLNode progId="26" id="66761" />
+        <IXLNode progId="27" id="7116" />
+        <IXLNode progId="28" id="50934" />
+        <IXLNode progId="29" id="29506" />
+        <IXLNode progId="30" id="33506" />
+        <IXLNode progId="31" id="66763" />
+        <IXLNode progId="32" id="7135" />
+        <IXLNode progId="33" id="66765" />
+        <IXLNode progId="34" id="7158" />
+        <IXLNode progId="35" id="18920" />
+        <IXLNode progId="36" id="64747" />
+        <IXLNode progId="37" id="66767" />
+        <IXLNode progId="38" id="7177" />
+        <IXLNode progId="39" id="28141" />
+        <IXLNode progId="40" id="19945" />
+        <IXLNode progId="41" id="19930" />
+        <IXLNode progId="42" id="28321" />
+        <IXLNode progId="43" id="27938" />
+        <IXLNode progId="44" id="27923" />
+        <IXLNode progId="45" id="14314" />
+        <IXLNode progId="46" id="23184" />
+        <IXLNode progId="47" id="23727" />
+        <IXLNode progId="48" id="19464" />
+        <IXLNode progId="49" id="66769" />
+        <IXLNode progId="50" id="7198" />
+        <IXLNode progId="51" id="19729" />
+        <IXLNode progId="52" id="30519" />
+        <IXLNode progId="53" id="40202" />
+        <IXLNode progId="54" id="7217" />
+        <IXLNode progId="55" id="19101" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="08d-24" optional="-" extendedName="S08d-S24" startPointId="20494" endPointId="19581" direction="D" signalId="16790" speed="30" trackItem="01_D01b_D11b_D12a-16bCR2_D10a_D06a_D24a-06bCN2_24" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3892" name="216" />
+        <TrackCircuit progId="1" id="1827" name="214" />
+        <TrackCircuit progId="2" id="1795" name="213" />
+        <TrackCircuit progId="3" id="1498" name="514" />
+        <TrackCircuit progId="4" id="1530" name="513" />
+        <TrackCircuit progId="5" id="7300" name="252" />
+        <TrackCircuit progId="6" id="7313" name="251" />
+        <TrackCircuit progId="7" id="7326" name="250" />
+        <TrackCircuit progId="8" id="7339" name="242" />
+        <TrackCircuit progId="9" id="7352" name="241" />
+        <TrackCircuit progId="10" id="7365" name="240" />
+        <TrackCircuit progId="11" id="66788" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="4515">
+          <Switch side="1" switchMotorId="12722" switchMotorName="12a" switchMotorNumber="12" switchMotorState="2" />
+          <Switch side="2" switchMotorId="12741" switchMotorName="16b" switchMotorNumber="16" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="4686">
+          <Switch side="1" switchMotorId="10886" switchMotorName="12b" switchMotorNumber="12" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="12663">
+          <Switch side="1" switchMotorId="12845" switchMotorName="10a" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="12641">
+          <Switch side="1" switchMotorId="12809" switchMotorName="10b" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="4" id="12045">
+          <Switch side="1" switchMotorId="12293" switchMotorName="06a" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="5" id="12157">
+          <Switch side="1" switchMotorId="52652" switchMotorName="24a" switchMotorNumber="24" switchMotorState="1" />
+          <Switch side="2" switchMotorId="52697" switchMotorName="06b" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="6" id="52446">
+          <Switch side="1" switchMotorId="52716" switchMotorName="04a" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="7" id="14314">
+          <Switch side="1" switchMotorId="15262" switchMotorName="108" switchMotorNumber="108" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="16790" />
+        <IXLNode progId="1" id="41968" />
+        <IXLNode progId="2" id="3873" />
+        <IXLNode progId="3" id="22852" />
+        <IXLNode progId="4" id="58492" />
+        <IXLNode progId="5" id="4515" />
+        <IXLNode progId="6" id="58694" />
+        <IXLNode progId="7" id="66771" />
+        <IXLNode progId="8" id="10450" />
+        <IXLNode progId="9" id="58722" />
+        <IXLNode progId="10" id="4686" />
+        <IXLNode progId="11" id="66757" />
+        <IXLNode progId="12" id="1776" />
+        <IXLNode progId="13" id="12663" />
+        <IXLNode progId="14" id="12875" />
+        <IXLNode progId="15" id="66775" />
+        <IXLNode progId="16" id="12696" />
+        <IXLNode progId="17" id="12893" />
+        <IXLNode progId="18" id="12641" />
+        <IXLNode progId="19" id="66755" />
+        <IXLNode progId="20" id="1479" />
+        <IXLNode progId="21" id="12045" />
+        <IXLNode progId="22" id="52894" />
+        <IXLNode progId="23" id="66773" />
+        <IXLNode progId="24" id="12187" />
+        <IXLNode progId="25" id="52856" />
+        <IXLNode progId="26" id="12157" />
+        <IXLNode progId="27" id="52996" />
+        <IXLNode progId="28" id="52446" />
+        <IXLNode progId="29" id="52751" />
+        <IXLNode progId="30" id="66761" />
+        <IXLNode progId="31" id="7116" />
+        <IXLNode progId="32" id="50934" />
+        <IXLNode progId="33" id="29506" />
+        <IXLNode progId="34" id="33506" />
+        <IXLNode progId="35" id="66763" />
+        <IXLNode progId="36" id="7135" />
+        <IXLNode progId="37" id="66765" />
+        <IXLNode progId="38" id="7158" />
+        <IXLNode progId="39" id="18920" />
+        <IXLNode progId="40" id="64747" />
+        <IXLNode progId="41" id="66767" />
+        <IXLNode progId="42" id="7177" />
+        <IXLNode progId="43" id="28141" />
+        <IXLNode progId="44" id="19945" />
+        <IXLNode progId="45" id="19930" />
+        <IXLNode progId="46" id="28321" />
+        <IXLNode progId="47" id="27938" />
+        <IXLNode progId="48" id="27923" />
+        <IXLNode progId="49" id="14314" />
+        <IXLNode progId="50" id="23184" />
+        <IXLNode progId="51" id="23727" />
+        <IXLNode progId="52" id="19464" />
+        <IXLNode progId="53" id="66769" />
+        <IXLNode progId="54" id="7198" />
+        <IXLNode progId="55" id="19729" />
+        <IXLNode progId="56" id="30519" />
+        <IXLNode progId="57" id="40202" />
+        <IXLNode progId="58" id="7217" />
+        <IXLNode progId="59" id="19101" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="10d-24" optional="-" extendedName="S10d-S24" startPointId="25659" endPointId="19581" direction="D" signalId="17144" speed="30" trackItem="T3949_D16a-18bCR2_D12a-16bCR2_D10a_D06a_D24a-06bCN2_T63101" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="4079" name="223" />
+        <TrackCircuit progId="1" id="3892" name="216" />
+        <TrackCircuit progId="2" id="1827" name="214" />
+        <TrackCircuit progId="3" id="1795" name="213" />
+        <TrackCircuit progId="4" id="1498" name="514" />
+        <TrackCircuit progId="5" id="1530" name="513" />
+        <TrackCircuit progId="6" id="7300" name="252" />
+        <TrackCircuit progId="7" id="7313" name="251" />
+        <TrackCircuit progId="8" id="7326" name="250" />
+        <TrackCircuit progId="9" id="7339" name="242" />
+        <TrackCircuit progId="10" id="7352" name="241" />
+        <TrackCircuit progId="11" id="7365" name="240" />
+        <TrackCircuit progId="12" id="66788" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="25137">
+          <Switch side="1" switchMotorId="58139" switchMotorName="16a" switchMotorNumber="16" switchMotorState="2" />
+          <Switch side="2" switchMotorId="58159" switchMotorName="18b" switchMotorNumber="18" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="4515">
+          <Switch side="1" switchMotorId="12722" switchMotorName="12a" switchMotorNumber="12" switchMotorState="2" />
+          <Switch side="2" switchMotorId="12741" switchMotorName="16b" switchMotorNumber="16" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="4686">
+          <Switch side="1" switchMotorId="10886" switchMotorName="12b" switchMotorNumber="12" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="12663">
+          <Switch side="1" switchMotorId="12845" switchMotorName="10a" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="4" id="12641">
+          <Switch side="1" switchMotorId="12809" switchMotorName="10b" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="5" id="12045">
+          <Switch side="1" switchMotorId="12293" switchMotorName="06a" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="6" id="12157">
+          <Switch side="1" switchMotorId="52652" switchMotorName="24a" switchMotorNumber="24" switchMotorState="1" />
+          <Switch side="2" switchMotorId="52697" switchMotorName="06b" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="7" id="52446">
+          <Switch side="1" switchMotorId="52716" switchMotorName="04a" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="8" id="14314">
+          <Switch side="1" switchMotorId="15262" switchMotorName="108" switchMotorNumber="108" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="17144" />
+        <IXLNode progId="1" id="21332" />
+        <IXLNode progId="2" id="41993" />
+        <IXLNode progId="3" id="3996" />
+        <IXLNode progId="4" id="51612" />
+        <IXLNode progId="5" id="51673" />
+        <IXLNode progId="6" id="25137" />
+        <IXLNode progId="7" id="58510" />
+        <IXLNode progId="8" id="66783" />
+        <IXLNode progId="9" id="58909" />
+        <IXLNode progId="10" id="58583" />
+        <IXLNode progId="11" id="4515" />
+        <IXLNode progId="12" id="58694" />
+        <IXLNode progId="13" id="66771" />
+        <IXLNode progId="14" id="10450" />
+        <IXLNode progId="15" id="58722" />
+        <IXLNode progId="16" id="4686" />
+        <IXLNode progId="17" id="66757" />
+        <IXLNode progId="18" id="1776" />
+        <IXLNode progId="19" id="12663" />
+        <IXLNode progId="20" id="12875" />
+        <IXLNode progId="21" id="66775" />
+        <IXLNode progId="22" id="12696" />
+        <IXLNode progId="23" id="12893" />
+        <IXLNode progId="24" id="12641" />
+        <IXLNode progId="25" id="66755" />
+        <IXLNode progId="26" id="1479" />
+        <IXLNode progId="27" id="12045" />
+        <IXLNode progId="28" id="52894" />
+        <IXLNode progId="29" id="66773" />
+        <IXLNode progId="30" id="12187" />
+        <IXLNode progId="31" id="52856" />
+        <IXLNode progId="32" id="12157" />
+        <IXLNode progId="33" id="52996" />
+        <IXLNode progId="34" id="52446" />
+        <IXLNode progId="35" id="52751" />
+        <IXLNode progId="36" id="66761" />
+        <IXLNode progId="37" id="7116" />
+        <IXLNode progId="38" id="50934" />
+        <IXLNode progId="39" id="29506" />
+        <IXLNode progId="40" id="33506" />
+        <IXLNode progId="41" id="66763" />
+        <IXLNode progId="42" id="7135" />
+        <IXLNode progId="43" id="66765" />
+        <IXLNode progId="44" id="7158" />
+        <IXLNode progId="45" id="18920" />
+        <IXLNode progId="46" id="64747" />
+        <IXLNode progId="47" id="66767" />
+        <IXLNode progId="48" id="7177" />
+        <IXLNode progId="49" id="28141" />
+        <IXLNode progId="50" id="19945" />
+        <IXLNode progId="51" id="19930" />
+        <IXLNode progId="52" id="28321" />
+        <IXLNode progId="53" id="27938" />
+        <IXLNode progId="54" id="27923" />
+        <IXLNode progId="55" id="14314" />
+        <IXLNode progId="56" id="23184" />
+        <IXLNode progId="57" id="23727" />
+        <IXLNode progId="58" id="19464" />
+        <IXLNode progId="59" id="66769" />
+        <IXLNode progId="60" id="7198" />
+        <IXLNode progId="61" id="19729" />
+        <IXLNode progId="62" id="30519" />
+        <IXLNode progId="63" id="40202" />
+        <IXLNode progId="64" id="7217" />
+        <IXLNode progId="65" id="19101" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="12d-24" optional="-" extendedName="S12d-S24" startPointId="20380" endPointId="19581" direction="D" signalId="18408" speed="30" trackItem="01_D01b_D03b_D05-03aCN2_D18a-22CR2_D16a-18bCR2_D12a-16bCR2_D10a_D06a_D24a-06bCN2_24" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="8874" name="225" />
+        <TrackCircuit progId="1" id="7853" name="224" />
+        <TrackCircuit progId="2" id="4079" name="223" />
+        <TrackCircuit progId="3" id="3892" name="216" />
+        <TrackCircuit progId="4" id="1827" name="214" />
+        <TrackCircuit progId="5" id="1795" name="213" />
+        <TrackCircuit progId="6" id="1498" name="514" />
+        <TrackCircuit progId="7" id="1530" name="513" />
+        <TrackCircuit progId="8" id="7300" name="252" />
+        <TrackCircuit progId="9" id="7313" name="251" />
+        <TrackCircuit progId="10" id="7326" name="250" />
+        <TrackCircuit progId="11" id="7339" name="242" />
+        <TrackCircuit progId="12" id="7352" name="241" />
+        <TrackCircuit progId="13" id="7365" name="240" />
+        <TrackCircuit progId="14" id="66788" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="8281">
+          <Switch side="1" switchMotorId="10200" switchMotorName="20" switchMotorNumber="20" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="10488">
+          <Switch side="1" switchMotorId="17340" switchMotorName="18a" switchMotorNumber="18" switchMotorState="2" />
+          <Switch side="2" switchMotorId="17371" switchMotorName="22" switchMotorNumber="22" switchMotorState="1" />
+        </Point>
+        <Point progId="2" id="25137">
+          <Switch side="1" switchMotorId="58139" switchMotorName="16a" switchMotorNumber="16" switchMotorState="2" />
+          <Switch side="2" switchMotorId="58159" switchMotorName="18b" switchMotorNumber="18" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="4515">
+          <Switch side="1" switchMotorId="12722" switchMotorName="12a" switchMotorNumber="12" switchMotorState="2" />
+          <Switch side="2" switchMotorId="12741" switchMotorName="16b" switchMotorNumber="16" switchMotorState="2" />
+        </Point>
+        <Point progId="4" id="4686">
+          <Switch side="1" switchMotorId="10886" switchMotorName="12b" switchMotorNumber="12" switchMotorState="2" />
+        </Point>
+        <Point progId="5" id="12663">
+          <Switch side="1" switchMotorId="12845" switchMotorName="10a" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="6" id="12641">
+          <Switch side="1" switchMotorId="12809" switchMotorName="10b" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="7" id="12045">
+          <Switch side="1" switchMotorId="12293" switchMotorName="06a" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="8" id="12157">
+          <Switch side="1" switchMotorId="52652" switchMotorName="24a" switchMotorNumber="24" switchMotorState="1" />
+          <Switch side="2" switchMotorId="52697" switchMotorName="06b" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="9" id="52446">
+          <Switch side="1" switchMotorId="52716" switchMotorName="04a" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="10" id="14314">
+          <Switch side="1" switchMotorId="15262" switchMotorName="108" switchMotorNumber="108" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="18408" />
+        <IXLNode progId="1" id="21278" />
+        <IXLNode progId="2" id="42018" />
+        <IXLNode progId="3" id="17904" />
+        <IXLNode progId="4" id="22882" />
+        <IXLNode progId="5" id="10402" />
+        <IXLNode progId="6" id="8281" />
+        <IXLNode progId="7" id="66779" />
+        <IXLNode progId="8" id="51220" />
+        <IXLNode progId="9" id="10488" />
+        <IXLNode progId="10" id="51594" />
+        <IXLNode progId="11" id="66781" />
+        <IXLNode progId="12" id="52241" />
+        <IXLNode progId="13" id="51636" />
+        <IXLNode progId="14" id="25137" />
+        <IXLNode progId="15" id="58510" />
+        <IXLNode progId="16" id="66783" />
+        <IXLNode progId="17" id="58909" />
+        <IXLNode progId="18" id="58583" />
+        <IXLNode progId="19" id="4515" />
+        <IXLNode progId="20" id="58694" />
+        <IXLNode progId="21" id="66771" />
+        <IXLNode progId="22" id="10450" />
+        <IXLNode progId="23" id="58722" />
+        <IXLNode progId="24" id="4686" />
+        <IXLNode progId="25" id="66757" />
+        <IXLNode progId="26" id="1776" />
+        <IXLNode progId="27" id="12663" />
+        <IXLNode progId="28" id="12875" />
+        <IXLNode progId="29" id="66775" />
+        <IXLNode progId="30" id="12696" />
+        <IXLNode progId="31" id="12893" />
+        <IXLNode progId="32" id="12641" />
+        <IXLNode progId="33" id="66755" />
+        <IXLNode progId="34" id="1479" />
+        <IXLNode progId="35" id="12045" />
+        <IXLNode progId="36" id="52894" />
+        <IXLNode progId="37" id="66773" />
+        <IXLNode progId="38" id="12187" />
+        <IXLNode progId="39" id="52856" />
+        <IXLNode progId="40" id="12157" />
+        <IXLNode progId="41" id="52996" />
+        <IXLNode progId="42" id="52446" />
+        <IXLNode progId="43" id="52751" />
+        <IXLNode progId="44" id="66761" />
+        <IXLNode progId="45" id="7116" />
+        <IXLNode progId="46" id="50934" />
+        <IXLNode progId="47" id="29506" />
+        <IXLNode progId="48" id="33506" />
+        <IXLNode progId="49" id="66763" />
+        <IXLNode progId="50" id="7135" />
+        <IXLNode progId="51" id="66765" />
+        <IXLNode progId="52" id="7158" />
+        <IXLNode progId="53" id="18920" />
+        <IXLNode progId="54" id="64747" />
+        <IXLNode progId="55" id="66767" />
+        <IXLNode progId="56" id="7177" />
+        <IXLNode progId="57" id="28141" />
+        <IXLNode progId="58" id="19945" />
+        <IXLNode progId="59" id="19930" />
+        <IXLNode progId="60" id="28321" />
+        <IXLNode progId="61" id="27938" />
+        <IXLNode progId="62" id="27923" />
+        <IXLNode progId="63" id="14314" />
+        <IXLNode progId="64" id="23184" />
+        <IXLNode progId="65" id="23727" />
+        <IXLNode progId="66" id="19464" />
+        <IXLNode progId="67" id="66769" />
+        <IXLNode progId="68" id="7198" />
+        <IXLNode progId="69" id="19729" />
+        <IXLNode progId="70" id="30519" />
+        <IXLNode progId="71" id="40202" />
+        <IXLNode progId="72" id="7217" />
+        <IXLNode progId="73" id="19101" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="14d-24" optional="-" extendedName="S14d-S24" startPointId="20399" endPointId="19581" direction="D" signalId="18735" speed="30" trackItem="T1079_D03b_D05-03aCR2_D18a-22CR2_D16a-18bCR2_D12a-16bCR2_D10a_D06a_D24a-06bCN2_T63101" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="8874" name="225" />
+        <TrackCircuit progId="1" id="7853" name="224" />
+        <TrackCircuit progId="2" id="4079" name="223" />
+        <TrackCircuit progId="3" id="3892" name="216" />
+        <TrackCircuit progId="4" id="1827" name="214" />
+        <TrackCircuit progId="5" id="1795" name="213" />
+        <TrackCircuit progId="6" id="1498" name="514" />
+        <TrackCircuit progId="7" id="1530" name="513" />
+        <TrackCircuit progId="8" id="7300" name="252" />
+        <TrackCircuit progId="9" id="7313" name="251" />
+        <TrackCircuit progId="10" id="7326" name="250" />
+        <TrackCircuit progId="11" id="7339" name="242" />
+        <TrackCircuit progId="12" id="7352" name="241" />
+        <TrackCircuit progId="13" id="7365" name="240" />
+        <TrackCircuit progId="14" id="66788" name="BCA24_163" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="8281">
+          <Switch side="1" switchMotorId="10200" switchMotorName="20" switchMotorNumber="20" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="10488">
+          <Switch side="1" switchMotorId="17340" switchMotorName="18a" switchMotorNumber="18" switchMotorState="2" />
+          <Switch side="2" switchMotorId="17371" switchMotorName="22" switchMotorNumber="22" switchMotorState="1" />
+        </Point>
+        <Point progId="2" id="25137">
+          <Switch side="1" switchMotorId="58139" switchMotorName="16a" switchMotorNumber="16" switchMotorState="2" />
+          <Switch side="2" switchMotorId="58159" switchMotorName="18b" switchMotorNumber="18" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="4515">
+          <Switch side="1" switchMotorId="12722" switchMotorName="12a" switchMotorNumber="12" switchMotorState="2" />
+          <Switch side="2" switchMotorId="12741" switchMotorName="16b" switchMotorNumber="16" switchMotorState="2" />
+        </Point>
+        <Point progId="4" id="4686">
+          <Switch side="1" switchMotorId="10886" switchMotorName="12b" switchMotorNumber="12" switchMotorState="2" />
+        </Point>
+        <Point progId="5" id="12663">
+          <Switch side="1" switchMotorId="12845" switchMotorName="10a" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="6" id="12641">
+          <Switch side="1" switchMotorId="12809" switchMotorName="10b" switchMotorNumber="10" switchMotorState="2" />
+        </Point>
+        <Point progId="7" id="12045">
+          <Switch side="1" switchMotorId="12293" switchMotorName="06a" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="8" id="12157">
+          <Switch side="1" switchMotorId="52652" switchMotorName="24a" switchMotorNumber="24" switchMotorState="1" />
+          <Switch side="2" switchMotorId="52697" switchMotorName="06b" switchMotorNumber="06" switchMotorState="2" />
+        </Point>
+        <Point progId="9" id="52446">
+          <Switch side="1" switchMotorId="52716" switchMotorName="04a" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="10" id="14314">
+          <Switch side="1" switchMotorId="15262" switchMotorName="108" switchMotorNumber="108" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="18735" />
+        <IXLNode progId="1" id="21313" />
+        <IXLNode progId="2" id="42043" />
+        <IXLNode progId="3" id="14558" />
+        <IXLNode progId="4" id="22897" />
+        <IXLNode progId="5" id="10383" />
+        <IXLNode progId="6" id="8281" />
+        <IXLNode progId="7" id="66779" />
+        <IXLNode progId="8" id="51220" />
+        <IXLNode progId="9" id="10488" />
+        <IXLNode progId="10" id="51594" />
+        <IXLNode progId="11" id="66781" />
+        <IXLNode progId="12" id="52241" />
+        <IXLNode progId="13" id="51636" />
+        <IXLNode progId="14" id="25137" />
+        <IXLNode progId="15" id="58510" />
+        <IXLNode progId="16" id="66783" />
+        <IXLNode progId="17" id="58909" />
+        <IXLNode progId="18" id="58583" />
+        <IXLNode progId="19" id="4515" />
+        <IXLNode progId="20" id="58694" />
+        <IXLNode progId="21" id="66771" />
+        <IXLNode progId="22" id="10450" />
+        <IXLNode progId="23" id="58722" />
+        <IXLNode progId="24" id="4686" />
+        <IXLNode progId="25" id="66757" />
+        <IXLNode progId="26" id="1776" />
+        <IXLNode progId="27" id="12663" />
+        <IXLNode progId="28" id="12875" />
+        <IXLNode progId="29" id="66775" />
+        <IXLNode progId="30" id="12696" />
+        <IXLNode progId="31" id="12893" />
+        <IXLNode progId="32" id="12641" />
+        <IXLNode progId="33" id="66755" />
+        <IXLNode progId="34" id="1479" />
+        <IXLNode progId="35" id="12045" />
+        <IXLNode progId="36" id="52894" />
+        <IXLNode progId="37" id="66773" />
+        <IXLNode progId="38" id="12187" />
+        <IXLNode progId="39" id="52856" />
+        <IXLNode progId="40" id="12157" />
+        <IXLNode progId="41" id="52996" />
+        <IXLNode progId="42" id="52446" />
+        <IXLNode progId="43" id="52751" />
+        <IXLNode progId="44" id="66761" />
+        <IXLNode progId="45" id="7116" />
+        <IXLNode progId="46" id="50934" />
+        <IXLNode progId="47" id="29506" />
+        <IXLNode progId="48" id="33506" />
+        <IXLNode progId="49" id="66763" />
+        <IXLNode progId="50" id="7135" />
+        <IXLNode progId="51" id="66765" />
+        <IXLNode progId="52" id="7158" />
+        <IXLNode progId="53" id="18920" />
+        <IXLNode progId="54" id="64747" />
+        <IXLNode progId="55" id="66767" />
+        <IXLNode progId="56" id="7177" />
+        <IXLNode progId="57" id="28141" />
+        <IXLNode progId="58" id="19945" />
+        <IXLNode progId="59" id="19930" />
+        <IXLNode progId="60" id="28321" />
+        <IXLNode progId="61" id="27938" />
+        <IXLNode progId="62" id="27923" />
+        <IXLNode progId="63" id="14314" />
+        <IXLNode progId="64" id="23184" />
+        <IXLNode progId="65" id="23727" />
+        <IXLNode progId="66" id="19464" />
+        <IXLNode progId="67" id="66769" />
+        <IXLNode progId="68" id="7198" />
+        <IXLNode progId="69" id="19729" />
+        <IXLNode progId="70" id="30519" />
+        <IXLNode progId="71" id="40202" />
+        <IXLNode progId="72" id="7217" />
+        <IXLNode progId="73" id="19101" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="01-45" optional="-" extendedName="0017-0019-3" startPointId="4372" endPointId="8498" direction="D" signalId="4415" speed="30" trackItem="01_D03_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3895" name="110" />
+        <TrackCircuit progId="1" id="3908" name="111" />
+        <TrackCircuit progId="2" id="3921" name="112" />
+        <TrackCircuit progId="3" id="2715" name="303" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1682">
+          <Switch side="1" switchMotorId="3649" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="1565">
+          <Switch side="1" switchMotorId="3737" switchMotorName="03" switchMotorNumber="03" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="47848">
+          <Switch side="1" switchMotorId="48975" switchMotorName="103" switchMotorNumber="103" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4415" />
+        <IXLNode progId="1" id="41754" />
+        <IXLNode progId="2" id="24115" />
+        <IXLNode progId="3" id="33064" />
+        <IXLNode progId="4" id="24152" />
+        <IXLNode progId="5" id="5325" />
+        <IXLNode progId="6" id="4909" />
+        <IXLNode progId="7" id="4894" />
+        <IXLNode progId="8" id="5261" />
+        <IXLNode progId="9" id="67049" />
+        <IXLNode progId="10" id="32867" />
+        <IXLNode progId="11" id="67051" />
+        <IXLNode progId="12" id="4035" />
+        <IXLNode progId="13" id="4083" />
+        <IXLNode progId="14" id="63214" />
+        <IXLNode progId="15" id="26526" />
+        <IXLNode progId="16" id="5901" />
+        <IXLNode progId="17" id="5781" />
+        <IXLNode progId="18" id="5766" />
+        <IXLNode progId="19" id="5938" />
+        <IXLNode progId="20" id="17875" />
+        <IXLNode progId="21" id="67045" />
+        <IXLNode progId="22" id="32848" />
+        <IXLNode progId="23" id="67047" />
+        <IXLNode progId="24" id="1682" />
+        <IXLNode progId="25" id="55507" />
+        <IXLNode progId="26" id="1565" />
+        <IXLNode progId="27" id="41426" />
+        <IXLNode progId="28" id="3219" />
+        <IXLNode progId="29" id="67057" />
+        <IXLNode progId="30" id="32924" />
+        <IXLNode progId="31" id="24077" />
+        <IXLNode progId="32" id="18145" />
+        <IXLNode progId="33" id="6730" />
+        <IXLNode progId="34" id="21151" />
+        <IXLNode progId="35" id="62324" />
+        <IXLNode progId="36" id="47848" />
+        <IXLNode progId="37" id="53912" />
+        <IXLNode progId="38" id="21195" />
+        <IXLNode progId="39" id="21805" />
+        <IXLNode progId="40" id="62983" />
+        <IXLNode progId="41" id="62885" />
+        <IXLNode progId="42" id="46043" />
+        <IXLNode progId="43" id="2652" />
+        <IXLNode progId="44" id="62676" />
+        <IXLNode progId="45" id="62746" />
+        <IXLNode progId="46" id="22351" />
+        <IXLNode progId="47" id="7343" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="01-43" optional="-" extendedName="0017-0019" startPointId="4372" endPointId="8552" direction="D" signalId="4415" speed="VL" trackItem="II" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3895" name="110" />
+        <TrackCircuit progId="1" id="3908" name="111" />
+        <TrackCircuit progId="2" id="3921" name="112" />
+        <TrackCircuit progId="3" id="2702" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1682">
+          <Switch side="1" switchMotorId="3649" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="1565">
+          <Switch side="1" switchMotorId="3737" switchMotorName="03" switchMotorNumber="03" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4415" />
+        <IXLNode progId="1" id="41754" />
+        <IXLNode progId="2" id="24115" />
+        <IXLNode progId="3" id="33064" />
+        <IXLNode progId="4" id="24152" />
+        <IXLNode progId="5" id="5325" />
+        <IXLNode progId="6" id="4909" />
+        <IXLNode progId="7" id="4894" />
+        <IXLNode progId="8" id="5261" />
+        <IXLNode progId="9" id="67049" />
+        <IXLNode progId="10" id="32867" />
+        <IXLNode progId="11" id="67051" />
+        <IXLNode progId="12" id="4035" />
+        <IXLNode progId="13" id="4083" />
+        <IXLNode progId="14" id="63214" />
+        <IXLNode progId="15" id="26526" />
+        <IXLNode progId="16" id="5901" />
+        <IXLNode progId="17" id="5781" />
+        <IXLNode progId="18" id="5766" />
+        <IXLNode progId="19" id="5938" />
+        <IXLNode progId="20" id="17875" />
+        <IXLNode progId="21" id="67045" />
+        <IXLNode progId="22" id="32848" />
+        <IXLNode progId="23" id="67047" />
+        <IXLNode progId="24" id="1682" />
+        <IXLNode progId="25" id="55507" />
+        <IXLNode progId="26" id="1565" />
+        <IXLNode progId="27" id="41650" />
+        <IXLNode progId="28" id="3237" />
+        <IXLNode progId="29" id="67059" />
+        <IXLNode progId="30" id="32943" />
+        <IXLNode progId="31" id="24039" />
+        <IXLNode progId="32" id="18341" />
+        <IXLNode progId="33" id="6769" />
+        <IXLNode progId="34" id="21292" />
+        <IXLNode progId="35" id="61682" />
+        <IXLNode progId="36" id="62161" />
+        <IXLNode progId="37" id="62091" />
+        <IXLNode progId="38" id="61927" />
+        <IXLNode progId="39" id="2633" />
+        <IXLNode progId="40" id="62004" />
+        <IXLNode progId="41" id="22484" />
+        <IXLNode progId="42" id="7383" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="25-01" optional="-" extendedName="0060-3-0017" startPointId="7000" endPointId="4372" direction="S" signalId="6730" speed="30" trackItem="02_D04_D104b_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3921" name="112" />
+        <TrackCircuit progId="1" id="3908" name="111" />
+        <TrackCircuit progId="2" id="3895" name="110" />
+        <TrackCircuit progId="3" id="67088" name="BCA02_171" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1565">
+          <Switch side="1" switchMotorId="3737" switchMotorName="03" switchMotorNumber="03" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="1682">
+          <Switch side="1" switchMotorId="3649" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="6730" />
+        <IXLNode progId="1" id="18145" />
+        <IXLNode progId="2" id="24077" />
+        <IXLNode progId="3" id="32924" />
+        <IXLNode progId="4" id="67057" />
+        <IXLNode progId="5" id="3219" />
+        <IXLNode progId="6" id="41426" />
+        <IXLNode progId="7" id="1565" />
+        <IXLNode progId="8" id="55507" />
+        <IXLNode progId="9" id="1682" />
+        <IXLNode progId="10" id="67047" />
+        <IXLNode progId="11" id="32848" />
+        <IXLNode progId="12" id="67045" />
+        <IXLNode progId="13" id="17875" />
+        <IXLNode progId="14" id="5938" />
+        <IXLNode progId="15" id="5766" />
+        <IXLNode progId="16" id="5781" />
+        <IXLNode progId="17" id="5901" />
+        <IXLNode progId="18" id="26526" />
+        <IXLNode progId="19" id="63214" />
+        <IXLNode progId="20" id="4083" />
+        <IXLNode progId="21" id="4035" />
+        <IXLNode progId="22" id="67051" />
+        <IXLNode progId="23" id="32867" />
+        <IXLNode progId="24" id="67049" />
+        <IXLNode progId="25" id="5261" />
+        <IXLNode progId="26" id="4894" />
+        <IXLNode progId="27" id="4909" />
+        <IXLNode progId="28" id="5325" />
+        <IXLNode progId="29" id="24152" />
+        <IXLNode progId="30" id="33064" />
+        <IXLNode progId="31" id="24115" />
+        <IXLNode progId="32" id="41754" />
+        <IXLNode progId="33" id="4415" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="23-01" optional="-" extendedName="0060-0017" startPointId="6946" endPointId="4372" direction="S" signalId="6769" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3921" name="112" />
+        <TrackCircuit progId="1" id="3908" name="111" />
+        <TrackCircuit progId="2" id="3895" name="110" />
+        <TrackCircuit progId="3" id="67088" name="BCA02_171" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1565">
+          <Switch side="1" switchMotorId="3737" switchMotorName="03" switchMotorNumber="03" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="1682">
+          <Switch side="1" switchMotorId="3649" switchMotorName="01" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="6769" />
+        <IXLNode progId="1" id="18341" />
+        <IXLNode progId="2" id="24039" />
+        <IXLNode progId="3" id="32943" />
+        <IXLNode progId="4" id="67059" />
+        <IXLNode progId="5" id="3237" />
+        <IXLNode progId="6" id="41650" />
+        <IXLNode progId="7" id="1565" />
+        <IXLNode progId="8" id="55507" />
+        <IXLNode progId="9" id="1682" />
+        <IXLNode progId="10" id="67047" />
+        <IXLNode progId="11" id="32848" />
+        <IXLNode progId="12" id="67045" />
+        <IXLNode progId="13" id="17875" />
+        <IXLNode progId="14" id="5938" />
+        <IXLNode progId="15" id="5766" />
+        <IXLNode progId="16" id="5781" />
+        <IXLNode progId="17" id="5901" />
+        <IXLNode progId="18" id="26526" />
+        <IXLNode progId="19" id="63214" />
+        <IXLNode progId="20" id="4083" />
+        <IXLNode progId="21" id="4035" />
+        <IXLNode progId="22" id="67051" />
+        <IXLNode progId="23" id="32867" />
+        <IXLNode progId="24" id="67049" />
+        <IXLNode progId="25" id="5261" />
+        <IXLNode progId="26" id="4894" />
+        <IXLNode progId="27" id="4909" />
+        <IXLNode progId="28" id="5325" />
+        <IXLNode progId="29" id="24152" />
+        <IXLNode progId="30" id="33064" />
+        <IXLNode progId="31" id="24115" />
+        <IXLNode progId="32" id="41754" />
+        <IXLNode progId="33" id="4415" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="24-01" optional="-" extendedName="0060-1-0017" startPointId="6582" endPointId="4372" direction="S" signalId="6411" speed="30" trackItem="T49134_T56360" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3921" name="112" />
+        <TrackCircuit progId="1" id="3908" name="111" />
+        <TrackCircuit progId="2" id="3895" name="110" />
+        <TrackCircuit progId="3" id="67088" name="BCA02_171" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="10015">
+          <Switch side="1" switchMotorId="49598" switchMotorName="05b" switchMotorNumber="05" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="1682">
+          <Switch side="1" switchMotorId="3649" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="6411" />
+        <IXLNode progId="1" id="18592" />
+        <IXLNode progId="2" id="24001" />
+        <IXLNode progId="3" id="32905" />
+        <IXLNode progId="4" id="67055" />
+        <IXLNode progId="5" id="55365" />
+        <IXLNode progId="6" id="55488" />
+        <IXLNode progId="7" id="10015" />
+        <IXLNode progId="8" id="41411" />
+        <IXLNode progId="9" id="1682" />
+        <IXLNode progId="10" id="67047" />
+        <IXLNode progId="11" id="32848" />
+        <IXLNode progId="12" id="67045" />
+        <IXLNode progId="13" id="17875" />
+        <IXLNode progId="14" id="5938" />
+        <IXLNode progId="15" id="5766" />
+        <IXLNode progId="16" id="5781" />
+        <IXLNode progId="17" id="5901" />
+        <IXLNode progId="18" id="26526" />
+        <IXLNode progId="19" id="63214" />
+        <IXLNode progId="20" id="4083" />
+        <IXLNode progId="21" id="4035" />
+        <IXLNode progId="22" id="67051" />
+        <IXLNode progId="23" id="32867" />
+        <IXLNode progId="24" id="67049" />
+        <IXLNode progId="25" id="5261" />
+        <IXLNode progId="26" id="4894" />
+        <IXLNode progId="27" id="4909" />
+        <IXLNode progId="28" id="5325" />
+        <IXLNode progId="29" id="24152" />
+        <IXLNode progId="30" id="33064" />
+        <IXLNode progId="31" id="24115" />
+        <IXLNode progId="32" id="41754" />
+        <IXLNode progId="33" id="4415" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="02-25" optional="-" extendedName="02-0060-3" startPointId="15771" endPointId="7000" direction="S" signalId="15264" speed="30" trackItem="02_D04_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3992" name="120" />
+        <TrackCircuit progId="1" id="3947" name="121" />
+        <TrackCircuit progId="2" id="3934" name="122" />
+        <TrackCircuit progId="3" id="2715" name="303" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1727">
+          <Switch side="1" switchMotorId="3365" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="1620">
+          <Switch side="1" switchMotorId="3417" switchMotorName="04" switchMotorNumber="04" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="48694">
+          <Switch side="1" switchMotorId="48812" switchMotorName="104b" switchMotorNumber="104" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="47848">
+          <Switch side="1" switchMotorId="48975" switchMotorName="103" switchMotorNumber="103" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="15264" />
+        <IXLNode progId="1" id="33046" />
+        <IXLNode progId="2" id="26094" />
+        <IXLNode progId="3" id="67053" />
+        <IXLNode progId="4" id="32886" />
+        <IXLNode progId="5" id="58700" />
+        <IXLNode progId="6" id="23031" />
+        <IXLNode progId="7" id="62580" />
+        <IXLNode progId="8" id="8143" />
+        <IXLNode progId="9" id="63312" />
+        <IXLNode progId="10" id="46272" />
+        <IXLNode progId="11" id="22937" />
+        <IXLNode progId="12" id="8026" />
+        <IXLNode progId="13" id="7855" />
+        <IXLNode progId="14" id="7870" />
+        <IXLNode progId="15" id="7990" />
+        <IXLNode progId="16" id="20282" />
+        <IXLNode progId="17" id="67043" />
+        <IXLNode progId="18" id="32810" />
+        <IXLNode progId="19" id="67041" />
+        <IXLNode progId="20" id="1727" />
+        <IXLNode progId="21" id="1620" />
+        <IXLNode progId="22" id="41471" />
+        <IXLNode progId="23" id="3256" />
+        <IXLNode progId="24" id="48694" />
+        <IXLNode progId="25" id="57223" />
+        <IXLNode progId="26" id="67061" />
+        <IXLNode progId="27" id="32962" />
+        <IXLNode progId="28" id="23963" />
+        <IXLNode progId="29" id="18946" />
+        <IXLNode progId="30" id="7343" />
+        <IXLNode progId="31" id="22351" />
+        <IXLNode progId="32" id="62746" />
+        <IXLNode progId="33" id="62676" />
+        <IXLNode progId="34" id="2652" />
+        <IXLNode progId="35" id="46043" />
+        <IXLNode progId="36" id="62885" />
+        <IXLNode progId="37" id="62983" />
+        <IXLNode progId="38" id="21805" />
+        <IXLNode progId="39" id="21195" />
+        <IXLNode progId="40" id="53912" />
+        <IXLNode progId="41" id="47848" />
+        <IXLNode progId="42" id="62324" />
+        <IXLNode progId="43" id="21151" />
+        <IXLNode progId="44" id="6730" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="02-23" optional="-" extendedName="02-0060" startPointId="15771" endPointId="6946" direction="S" signalId="15264" speed="VL" trackItem="02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3992" name="120" />
+        <TrackCircuit progId="1" id="3947" name="121" />
+        <TrackCircuit progId="2" id="3934" name="122" />
+        <TrackCircuit progId="3" id="2702" name="302" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1727">
+          <Switch side="1" switchMotorId="3365" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="1620">
+          <Switch side="1" switchMotorId="3417" switchMotorName="04" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="15264" />
+        <IXLNode progId="1" id="33046" />
+        <IXLNode progId="2" id="26094" />
+        <IXLNode progId="3" id="67053" />
+        <IXLNode progId="4" id="32886" />
+        <IXLNode progId="5" id="58700" />
+        <IXLNode progId="6" id="23031" />
+        <IXLNode progId="7" id="62580" />
+        <IXLNode progId="8" id="8143" />
+        <IXLNode progId="9" id="63312" />
+        <IXLNode progId="10" id="46272" />
+        <IXLNode progId="11" id="22937" />
+        <IXLNode progId="12" id="8026" />
+        <IXLNode progId="13" id="7855" />
+        <IXLNode progId="14" id="7870" />
+        <IXLNode progId="15" id="7990" />
+        <IXLNode progId="16" id="20282" />
+        <IXLNode progId="17" id="67043" />
+        <IXLNode progId="18" id="32810" />
+        <IXLNode progId="19" id="67041" />
+        <IXLNode progId="20" id="1727" />
+        <IXLNode progId="21" id="1620" />
+        <IXLNode progId="22" id="55216" />
+        <IXLNode progId="23" id="41634" />
+        <IXLNode progId="24" id="3274" />
+        <IXLNode progId="25" id="67063" />
+        <IXLNode progId="26" id="32981" />
+        <IXLNode progId="27" id="23925" />
+        <IXLNode progId="28" id="19321" />
+        <IXLNode progId="29" id="7383" />
+        <IXLNode progId="30" id="22484" />
+        <IXLNode progId="31" id="62004" />
+        <IXLNode progId="32" id="2633" />
+        <IXLNode progId="33" id="61927" />
+        <IXLNode progId="34" id="62091" />
+        <IXLNode progId="35" id="62161" />
+        <IXLNode progId="36" id="61682" />
+        <IXLNode progId="37" id="21292" />
+        <IXLNode progId="38" id="6769" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="02-24" optional="-" extendedName="02-0060-1" startPointId="15771" endPointId="6582" direction="S" signalId="15264" speed="30" trackItem="02_D02_01" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3992" name="120" />
+        <TrackCircuit progId="1" id="3947" name="121" />
+        <TrackCircuit progId="2" id="3934" name="122" />
+        <TrackCircuit progId="3" id="2689" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1727">
+          <Switch side="1" switchMotorId="3365" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="49148">
+          <Switch side="1" switchMotorId="49173" switchMotorName="105" switchMotorNumber="105" switchMotorState="1" />
+        </Point>
+        <Point progId="2" id="2891">
+          <Switch side="1" switchMotorId="3027" switchMotorName="101a" switchMotorNumber="101" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="15264" />
+        <IXLNode progId="1" id="33046" />
+        <IXLNode progId="2" id="26094" />
+        <IXLNode progId="3" id="67053" />
+        <IXLNode progId="4" id="32886" />
+        <IXLNode progId="5" id="58700" />
+        <IXLNode progId="6" id="23031" />
+        <IXLNode progId="7" id="62580" />
+        <IXLNode progId="8" id="8143" />
+        <IXLNode progId="9" id="63312" />
+        <IXLNode progId="10" id="46272" />
+        <IXLNode progId="11" id="22937" />
+        <IXLNode progId="12" id="8026" />
+        <IXLNode progId="13" id="7855" />
+        <IXLNode progId="14" id="7870" />
+        <IXLNode progId="15" id="7990" />
+        <IXLNode progId="16" id="20282" />
+        <IXLNode progId="17" id="67043" />
+        <IXLNode progId="18" id="32810" />
+        <IXLNode progId="19" id="67041" />
+        <IXLNode progId="20" id="1727" />
+        <IXLNode progId="21" id="41456" />
+        <IXLNode progId="22" id="55273" />
+        <IXLNode progId="23" id="55196" />
+        <IXLNode progId="24" id="67065" />
+        <IXLNode progId="25" id="33000" />
+        <IXLNode progId="26" id="23851" />
+        <IXLNode progId="27" id="19752" />
+        <IXLNode progId="28" id="49148" />
+        <IXLNode progId="29" id="7422" />
+        <IXLNode progId="30" id="22617" />
+        <IXLNode progId="31" id="61051" />
+        <IXLNode progId="32" id="22661" />
+        <IXLNode progId="33" id="2614" />
+        <IXLNode progId="34" id="61251" />
+        <IXLNode progId="35" id="61336" />
+        <IXLNode progId="36" id="61440" />
+        <IXLNode progId="37" id="61515" />
+        <IXLNode progId="38" id="2891" />
+        <IXLNode progId="39" id="3161" />
+        <IXLNode progId="40" id="30266" />
+        <IXLNode progId="41" id="30221" />
+        <IXLNode progId="42" id="21468" />
+        <IXLNode progId="43" id="21424" />
+        <IXLNode progId="44" id="6411" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="45-02" optional="-" extendedName="0019-3-02" startPointId="8498" endPointId="15771" direction="D" signalId="7343" speed="30" trackItem="01_D03_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3934" name="122" />
+        <TrackCircuit progId="1" id="3947" name="121" />
+        <TrackCircuit progId="2" id="3992" name="120" />
+        <TrackCircuit progId="3" id="67094" name="BCA02_173" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="48694">
+          <Switch side="1" switchMotorId="48812" switchMotorName="104b" switchMotorNumber="104" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="1620">
+          <Switch side="1" switchMotorId="3417" switchMotorName="04" switchMotorNumber="04" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="1727">
+          <Switch side="1" switchMotorId="3365" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="7343" />
+        <IXLNode progId="1" id="18946" />
+        <IXLNode progId="2" id="23963" />
+        <IXLNode progId="3" id="32962" />
+        <IXLNode progId="4" id="67061" />
+        <IXLNode progId="5" id="57223" />
+        <IXLNode progId="6" id="48694" />
+        <IXLNode progId="7" id="3256" />
+        <IXLNode progId="8" id="41471" />
+        <IXLNode progId="9" id="1620" />
+        <IXLNode progId="10" id="1727" />
+        <IXLNode progId="11" id="67041" />
+        <IXLNode progId="12" id="32810" />
+        <IXLNode progId="13" id="67043" />
+        <IXLNode progId="14" id="20282" />
+        <IXLNode progId="15" id="7990" />
+        <IXLNode progId="16" id="7870" />
+        <IXLNode progId="17" id="7855" />
+        <IXLNode progId="18" id="8026" />
+        <IXLNode progId="19" id="22937" />
+        <IXLNode progId="20" id="46272" />
+        <IXLNode progId="21" id="63312" />
+        <IXLNode progId="22" id="8143" />
+        <IXLNode progId="23" id="62580" />
+        <IXLNode progId="24" id="23031" />
+        <IXLNode progId="25" id="58700" />
+        <IXLNode progId="26" id="32886" />
+        <IXLNode progId="27" id="67053" />
+        <IXLNode progId="28" id="26094" />
+        <IXLNode progId="29" id="33046" />
+        <IXLNode progId="30" id="15264" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="43-02" optional="-" extendedName="0019-02" startPointId="8552" endPointId="15771" direction="D" signalId="7383" speed="VL" trackItem="II" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3934" name="122" />
+        <TrackCircuit progId="1" id="3947" name="121" />
+        <TrackCircuit progId="2" id="3992" name="120" />
+        <TrackCircuit progId="3" id="67094" name="BCA02_173" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1620">
+          <Switch side="1" switchMotorId="3417" switchMotorName="04" switchMotorNumber="04" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="1727">
+          <Switch side="1" switchMotorId="3365" switchMotorName="02" switchMotorNumber="02" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="7383" />
+        <IXLNode progId="1" id="19321" />
+        <IXLNode progId="2" id="23925" />
+        <IXLNode progId="3" id="32981" />
+        <IXLNode progId="4" id="67063" />
+        <IXLNode progId="5" id="3274" />
+        <IXLNode progId="6" id="41634" />
+        <IXLNode progId="7" id="55216" />
+        <IXLNode progId="8" id="1620" />
+        <IXLNode progId="9" id="1727" />
+        <IXLNode progId="10" id="67041" />
+        <IXLNode progId="11" id="32810" />
+        <IXLNode progId="12" id="67043" />
+        <IXLNode progId="13" id="20282" />
+        <IXLNode progId="14" id="7990" />
+        <IXLNode progId="15" id="7870" />
+        <IXLNode progId="16" id="7855" />
+        <IXLNode progId="17" id="8026" />
+        <IXLNode progId="18" id="22937" />
+        <IXLNode progId="19" id="46272" />
+        <IXLNode progId="20" id="63312" />
+        <IXLNode progId="21" id="8143" />
+        <IXLNode progId="22" id="62580" />
+        <IXLNode progId="23" id="23031" />
+        <IXLNode progId="24" id="58700" />
+        <IXLNode progId="25" id="32886" />
+        <IXLNode progId="26" id="67053" />
+        <IXLNode progId="27" id="26094" />
+        <IXLNode progId="28" id="33046" />
+        <IXLNode progId="29" id="15264" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="44-02" optional="-" extendedName="0019-1-02" startPointId="8606" endPointId="15771" direction="D" signalId="7422" speed="30" trackItem="01_D01_D05b_D106_D101b_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3934" name="122" />
+        <TrackCircuit progId="1" id="3947" name="121" />
+        <TrackCircuit progId="2" id="3992" name="120" />
+        <TrackCircuit progId="3" id="67094" name="BCA02_173" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="49148">
+          <Switch side="1" switchMotorId="49173" switchMotorName="105" switchMotorNumber="105" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="1727">
+          <Switch side="1" switchMotorId="3365" switchMotorName="02" switchMotorNumber="02" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="7422" />
+        <IXLNode progId="1" id="49148" />
+        <IXLNode progId="2" id="19752" />
+        <IXLNode progId="3" id="23851" />
+        <IXLNode progId="4" id="33000" />
+        <IXLNode progId="5" id="67065" />
+        <IXLNode progId="6" id="55196" />
+        <IXLNode progId="7" id="55273" />
+        <IXLNode progId="8" id="41456" />
+        <IXLNode progId="9" id="1727" />
+        <IXLNode progId="10" id="67041" />
+        <IXLNode progId="11" id="32810" />
+        <IXLNode progId="12" id="67043" />
+        <IXLNode progId="13" id="20282" />
+        <IXLNode progId="14" id="7990" />
+        <IXLNode progId="15" id="7870" />
+        <IXLNode progId="16" id="7855" />
+        <IXLNode progId="17" id="8026" />
+        <IXLNode progId="18" id="22937" />
+        <IXLNode progId="19" id="46272" />
+        <IXLNode progId="20" id="63312" />
+        <IXLNode progId="21" id="8143" />
+        <IXLNode progId="22" id="62580" />
+        <IXLNode progId="23" id="23031" />
+        <IXLNode progId="24" id="58700" />
+        <IXLNode progId="25" id="32886" />
+        <IXLNode progId="26" id="67053" />
+        <IXLNode progId="27" id="26094" />
+        <IXLNode progId="28" id="33046" />
+        <IXLNode progId="29" id="15264" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="172" name="01-44" optional="-" extendedName="0017-0019-1" startPointId="4372" endPointId="8606" direction="D" signalId="4415" speed="30" trackItem="01_D01_02" usedForLogic="true">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="3895" name="110" />
+        <TrackCircuit progId="1" id="3908" name="111" />
+        <TrackCircuit progId="2" id="3921" name="112" />
+        <TrackCircuit progId="3" id="2689" name="301" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="1682">
+          <Switch side="1" switchMotorId="3649" switchMotorName="01" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="10015">
+          <Switch side="1" switchMotorId="49598" switchMotorName="05b" switchMotorNumber="05" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="2891">
+          <Switch side="1" switchMotorId="3027" switchMotorName="101a" switchMotorNumber="101" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="4415" />
+        <IXLNode progId="1" id="41754" />
+        <IXLNode progId="2" id="24115" />
+        <IXLNode progId="3" id="33064" />
+        <IXLNode progId="4" id="24152" />
+        <IXLNode progId="5" id="5325" />
+        <IXLNode progId="6" id="4909" />
+        <IXLNode progId="7" id="4894" />
+        <IXLNode progId="8" id="5261" />
+        <IXLNode progId="9" id="67049" />
+        <IXLNode progId="10" id="32867" />
+        <IXLNode progId="11" id="67051" />
+        <IXLNode progId="12" id="4035" />
+        <IXLNode progId="13" id="4083" />
+        <IXLNode progId="14" id="63214" />
+        <IXLNode progId="15" id="26526" />
+        <IXLNode progId="16" id="5901" />
+        <IXLNode progId="17" id="5781" />
+        <IXLNode progId="18" id="5766" />
+        <IXLNode progId="19" id="5938" />
+        <IXLNode progId="20" id="17875" />
+        <IXLNode progId="21" id="67045" />
+        <IXLNode progId="22" id="32848" />
+        <IXLNode progId="23" id="67047" />
+        <IXLNode progId="24" id="1682" />
+        <IXLNode progId="25" id="41411" />
+        <IXLNode progId="26" id="10015" />
+        <IXLNode progId="27" id="55488" />
+        <IXLNode progId="28" id="55365" />
+        <IXLNode progId="29" id="67055" />
+        <IXLNode progId="30" id="32905" />
+        <IXLNode progId="31" id="24001" />
+        <IXLNode progId="32" id="18592" />
+        <IXLNode progId="33" id="6411" />
+        <IXLNode progId="34" id="21424" />
+        <IXLNode progId="35" id="21468" />
+        <IXLNode progId="36" id="30221" />
+        <IXLNode progId="37" id="30266" />
+        <IXLNode progId="38" id="3161" />
+        <IXLNode progId="39" id="2891" />
+        <IXLNode progId="40" id="61515" />
+        <IXLNode progId="41" id="61440" />
+        <IXLNode progId="42" id="61336" />
+        <IXLNode progId="43" id="61251" />
+        <IXLNode progId="44" id="2614" />
+        <IXLNode progId="45" id="22661" />
+        <IXLNode progId="46" id="61051" />
+        <IXLNode progId="47" id="22617" />
+        <IXLNode progId="48" id="7422" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="gQ4MPptvuSeMKMwkEqIipw==" name="Rieti" isOriginGraph="true">
+          <plantID>172</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="01-07d" optional="-" extendedName="S01-S07d" startPointId="19649" endPointId="20418" direction="D" signalId="2447" speed="30" trackItem="01_D13b_D24a-06bCN2_D04a_05" usedForLogic="false">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="1292" name="110" />
+        <TrackCircuit progId="1" id="1306" name="111" />
+        <TrackCircuit progId="2" id="1338" name="112" />
+        <TrackCircuit progId="3" id="1370" name="113" />
+        <TrackCircuit progId="4" id="1402" name="114" />
+        <TrackCircuit progId="5" id="1434" name="115" />
+        <TrackCircuit progId="6" id="7235" name="116" />
+        <TrackCircuit progId="7" id="7248" name="117" />
+        <TrackCircuit progId="8" id="7261" name="301" />
+        <TrackCircuit progId="9" id="7274" name="401" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="8489">
+          <Switch side="1" switchMotorId="8670" switchMotorName="01b" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="9042">
+          <Switch side="1" switchMotorId="9108" switchMotorName="07b" switchMotorNumber="07" switchMotorState="1" />
+        </Point>
+        <Point progId="2" id="9423">
+          <Switch side="1" switchMotorId="9554" switchMotorName="09a" switchMotorNumber="09" switchMotorState="1" />
+        </Point>
+        <Point progId="3" id="51847">
+          <Switch side="1" switchMotorId="51992" switchMotorName="13b" switchMotorNumber="13" switchMotorState="2" />
+        </Point>
+        <Point progId="4" id="9934">
+          <Switch side="1" switchMotorId="10014" switchMotorName="13a" switchMotorNumber="13" switchMotorState="2" />
+        </Point>
+        <Point progId="5" id="22119">
+          <Switch side="1" switchMotorId="22220" switchMotorName="103" switchMotorNumber="103" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="2447" />
+        <IXLNode progId="1" id="1189" />
+        <IXLNode progId="2" id="1237" />
+        <IXLNode progId="3" id="20056" />
+        <IXLNode progId="4" id="20104" />
+        <IXLNode progId="5" id="26906" />
+        <IXLNode progId="6" id="21068" />
+        <IXLNode progId="7" id="1256" />
+        <IXLNode progId="8" id="8489" />
+        <IXLNode progId="9" id="8594" />
+        <IXLNode progId="10" id="1319" />
+        <IXLNode progId="11" id="21179" />
+        <IXLNode progId="12" id="1351" />
+        <IXLNode progId="13" id="9042" />
+        <IXLNode progId="14" id="9256" />
+        <IXLNode progId="15" id="1383" />
+        <IXLNode progId="16" id="57734" />
+        <IXLNode progId="17" id="9423" />
+        <IXLNode progId="18" id="51847" />
+        <IXLNode progId="19" id="22541" />
+        <IXLNode progId="20" id="9959" />
+        <IXLNode progId="21" id="51871" />
+        <IXLNode progId="22" id="9934" />
+        <IXLNode progId="23" id="26399" />
+        <IXLNode progId="24" id="7021" />
+        <IXLNode progId="25" id="21817" />
+        <IXLNode progId="26" id="22752" />
+        <IXLNode progId="27" id="22119" />
+        <IXLNode progId="28" id="22912" />
+        <IXLNode progId="29" id="7040" />
+        <IXLNode progId="30" id="14832" />
+        <IXLNode progId="31" id="7059" />
+        <IXLNode progId="32" id="32028" />
+        <IXLNode progId="33" id="29111" />
+        <IXLNode progId="34" id="16057" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="01-04d" optional="-" extendedName="S01-S04d" startPointId="19649" endPointId="20475" direction="D" signalId="2447" speed="60" trackItem="01_D07b_D10a_05" usedForLogic="false">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="1292" name="110" />
+        <TrackCircuit progId="1" id="1306" name="111" />
+        <TrackCircuit progId="2" id="1338" name="112" />
+        <TrackCircuit progId="3" id="1370" name="113" />
+        <TrackCircuit progId="4" id="1402" name="114" />
+        <TrackCircuit progId="5" id="1907" name="120" />
+        <TrackCircuit progId="6" id="1859" name="303" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="8489">
+          <Switch side="1" switchMotorId="8670" switchMotorName="01b" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="9042">
+          <Switch side="1" switchMotorId="9108" switchMotorName="07b" switchMotorNumber="07" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="9064">
+          <Switch side="1" switchMotorId="9160" switchMotorName="07a" switchMotorNumber="07" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="9401">
+          <Switch side="1" switchMotorId="9501" switchMotorName="09b" switchMotorNumber="09" switchMotorState="1" />
+        </Point>
+        <Point progId="4" id="9664">
+          <Switch side="1" switchMotorId="9711" switchMotorName="11b" switchMotorNumber="11" switchMotorState="1" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="2447" />
+        <IXLNode progId="1" id="1189" />
+        <IXLNode progId="2" id="1237" />
+        <IXLNode progId="3" id="20056" />
+        <IXLNode progId="4" id="20104" />
+        <IXLNode progId="5" id="26906" />
+        <IXLNode progId="6" id="21068" />
+        <IXLNode progId="7" id="1256" />
+        <IXLNode progId="8" id="8489" />
+        <IXLNode progId="9" id="8594" />
+        <IXLNode progId="10" id="1319" />
+        <IXLNode progId="11" id="21179" />
+        <IXLNode progId="12" id="1351" />
+        <IXLNode progId="13" id="9042" />
+        <IXLNode progId="14" id="9234" />
+        <IXLNode progId="15" id="9089" />
+        <IXLNode progId="16" id="9216" />
+        <IXLNode progId="17" id="9064" />
+        <IXLNode progId="18" id="9401" />
+        <IXLNode progId="19" id="9664" />
+        <IXLNode progId="20" id="25598" />
+        <IXLNode progId="21" id="9820" />
+        <IXLNode progId="22" id="22942" />
+        <IXLNode progId="23" id="26568" />
+        <IXLNode progId="24" id="1840" />
+        <IXLNode progId="25" id="21741" />
+        <IXLNode progId="26" id="4921" />
+        <IXLNode progId="27" id="15134" />
+        <IXLNode progId="28" id="28747" />
+        <IXLNode progId="29" id="28703" />
+        <IXLNode progId="30" id="16559" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="01-08d" optional="-" extendedName="S01-S08d" startPointId="19649" endPointId="20494" direction="D" signalId="2447" speed="60" trackItem="01_D07b_D11b_D12a-16bCR2_D10a_05" usedForLogic="false">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="1292" name="110" />
+        <TrackCircuit progId="1" id="1306" name="111" />
+        <TrackCircuit progId="2" id="1338" name="112" />
+        <TrackCircuit progId="3" id="1370" name="113" />
+        <TrackCircuit progId="4" id="1402" name="114" />
+        <TrackCircuit progId="5" id="1907" name="120" />
+        <TrackCircuit progId="6" id="3828" name="121" />
+        <TrackCircuit progId="7" id="3937" name="304" />
+        <TrackCircuit progId="8" id="3924" name="404" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="8489">
+          <Switch side="1" switchMotorId="8670" switchMotorName="01b" switchMotorNumber="01" switchMotorState="1" />
+        </Point>
+        <Point progId="1" id="9042">
+          <Switch side="1" switchMotorId="9108" switchMotorName="07b" switchMotorNumber="07" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="9064">
+          <Switch side="1" switchMotorId="9160" switchMotorName="07a" switchMotorNumber="07" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="9401">
+          <Switch side="1" switchMotorId="9501" switchMotorName="09b" switchMotorNumber="09" switchMotorState="1" />
+        </Point>
+        <Point progId="4" id="9664">
+          <Switch side="1" switchMotorId="9711" switchMotorName="11b" switchMotorNumber="11" switchMotorState="2" />
+        </Point>
+        <Point progId="5" id="9686">
+          <Switch side="1" switchMotorId="9729" switchMotorName="11a" switchMotorNumber="11" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="2447" />
+        <IXLNode progId="1" id="1189" />
+        <IXLNode progId="2" id="1237" />
+        <IXLNode progId="3" id="20056" />
+        <IXLNode progId="4" id="20104" />
+        <IXLNode progId="5" id="26906" />
+        <IXLNode progId="6" id="21068" />
+        <IXLNode progId="7" id="1256" />
+        <IXLNode progId="8" id="8489" />
+        <IXLNode progId="9" id="8594" />
+        <IXLNode progId="10" id="1319" />
+        <IXLNode progId="11" id="21179" />
+        <IXLNode progId="12" id="1351" />
+        <IXLNode progId="13" id="9042" />
+        <IXLNode progId="14" id="9234" />
+        <IXLNode progId="15" id="9089" />
+        <IXLNode progId="16" id="9216" />
+        <IXLNode progId="17" id="9064" />
+        <IXLNode progId="18" id="9401" />
+        <IXLNode progId="19" id="9664" />
+        <IXLNode progId="20" id="9782" />
+        <IXLNode progId="21" id="9763" />
+        <IXLNode progId="22" id="9800" />
+        <IXLNode progId="23" id="9686" />
+        <IXLNode progId="24" id="26612" />
+        <IXLNode progId="25" id="22957" />
+        <IXLNode progId="26" id="3809" />
+        <IXLNode progId="27" id="6468" />
+        <IXLNode progId="28" id="21721" />
+        <IXLNode progId="29" id="3905" />
+        <IXLNode progId="30" id="28658" />
+        <IXLNode progId="31" id="21702" />
+        <IXLNode progId="32" id="28614" />
+        <IXLNode progId="33" id="16790" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="01-12d" optional="-" extendedName="S01-S12d" startPointId="19649" endPointId="20380" direction="D" signalId="2447" speed="30" trackItem="01_D01b_D03b_D05-03aCN2_D18a-22CR2_D16a-18bCR2_D12a-16bCR2_D10a_05" usedForLogic="false">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="1292" name="110" />
+        <TrackCircuit progId="1" id="1306" name="111" />
+        <TrackCircuit progId="2" id="1338" name="112" />
+        <TrackCircuit progId="3" id="1939" name="119" />
+        <TrackCircuit progId="4" id="14544" name="122" />
+        <TrackCircuit progId="5" id="7879" name="306" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="8489">
+          <Switch side="1" switchMotorId="8670" switchMotorName="01b" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="8511">
+          <Switch side="1" switchMotorId="8688" switchMotorName="01a" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="8042">
+          <Switch side="1" switchMotorId="8103" switchMotorName="03b" switchMotorNumber="03" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="7940">
+          <Switch side="1" switchMotorId="17417" switchMotorName="05" switchMotorNumber="05" switchMotorState="1" />
+          <Switch side="2" switchMotorId="17436" switchMotorName="03a" switchMotorNumber="03" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="2447" />
+        <IXLNode progId="1" id="1189" />
+        <IXLNode progId="2" id="1237" />
+        <IXLNode progId="3" id="20056" />
+        <IXLNode progId="4" id="20104" />
+        <IXLNode progId="5" id="26906" />
+        <IXLNode progId="6" id="21068" />
+        <IXLNode progId="7" id="1256" />
+        <IXLNode progId="8" id="8489" />
+        <IXLNode progId="9" id="8574" />
+        <IXLNode progId="10" id="8537" />
+        <IXLNode progId="11" id="8556" />
+        <IXLNode progId="12" id="8511" />
+        <IXLNode progId="13" id="8042" />
+        <IXLNode progId="14" id="8408" />
+        <IXLNode progId="15" id="8427" />
+        <IXLNode progId="16" id="7940" />
+        <IXLNode progId="17" id="9310" />
+        <IXLNode progId="18" id="22973" />
+        <IXLNode progId="19" id="7778" />
+        <IXLNode progId="20" id="21239" />
+        <IXLNode progId="21" id="27055" />
+        <IXLNode progId="22" id="14592" />
+        <IXLNode progId="23" id="15216" />
+        <IXLNode progId="24" id="27203" />
+        <IXLNode progId="25" id="27248" />
+        <IXLNode progId="26" id="18408" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+    <IXLItem plantId="162" name="01-14d" optional="-" extendedName="S01-S14d" startPointId="19649" endPointId="20399" direction="D" signalId="2447" speed="30" trackItem="01_D01b_D03b_D05-03aCR2_D18a-22CR2_D16a-18bCR2_D12a-16bCR2_D10a_05" usedForLogic="false">
+      <TrackCircuitList>
+        <TrackCircuit progId="0" id="1292" name="110" />
+        <TrackCircuit progId="1" id="1306" name="111" />
+        <TrackCircuit progId="2" id="1338" name="112" />
+        <TrackCircuit progId="3" id="1939" name="119" />
+        <TrackCircuit progId="4" id="14544" name="122" />
+        <TrackCircuit progId="5" id="14578" name="307" />
+      </TrackCircuitList>
+      <PointList>
+        <Point progId="0" id="8489">
+          <Switch side="1" switchMotorId="8670" switchMotorName="01b" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+        <Point progId="1" id="8511">
+          <Switch side="1" switchMotorId="8688" switchMotorName="01a" switchMotorNumber="01" switchMotorState="2" />
+        </Point>
+        <Point progId="2" id="8042">
+          <Switch side="1" switchMotorId="8103" switchMotorName="03b" switchMotorNumber="03" switchMotorState="2" />
+        </Point>
+        <Point progId="3" id="7940">
+          <Switch side="1" switchMotorId="17417" switchMotorName="05" switchMotorNumber="05" switchMotorState="2" />
+          <Switch side="2" switchMotorId="17436" switchMotorName="03a" switchMotorNumber="03" switchMotorState="2" />
+        </Point>
+      </PointList>
+      <NodeList>
+        <IXLNode progId="0" id="2447" />
+        <IXLNode progId="1" id="1189" />
+        <IXLNode progId="2" id="1237" />
+        <IXLNode progId="3" id="20056" />
+        <IXLNode progId="4" id="20104" />
+        <IXLNode progId="5" id="26906" />
+        <IXLNode progId="6" id="21068" />
+        <IXLNode progId="7" id="1256" />
+        <IXLNode progId="8" id="8489" />
+        <IXLNode progId="9" id="8574" />
+        <IXLNode progId="10" id="8537" />
+        <IXLNode progId="11" id="8556" />
+        <IXLNode progId="12" id="8511" />
+        <IXLNode progId="13" id="8042" />
+        <IXLNode progId="14" id="8408" />
+        <IXLNode progId="15" id="8427" />
+        <IXLNode progId="16" id="7940" />
+        <IXLNode progId="17" id="9328" />
+        <IXLNode progId="18" id="22988" />
+        <IXLNode progId="19" id="8305" />
+        <IXLNode progId="20" id="21259" />
+        <IXLNode progId="21" id="27011" />
+        <IXLNode progId="22" id="14609" />
+        <IXLNode progId="23" id="15235" />
+        <IXLNode progId="24" id="27115" />
+        <IXLNode progId="25" id="27159" />
+        <IXLNode progId="26" id="18735" />
+      </NodeList>
+      <Plants>
+        <GraphNodePlant sourceHASH="YpOhMTqMLIUnWkT9a6FMGA==" name="Terni" isOriginGraph="true">
+          <plantID>162</plantID>
+          <lenght>0</lenght>
+        </GraphNodePlant>
+      </Plants>
+    </IXLItem>
+  </IXLItemList>
+  <versioneGraphConsole>1.5.2.2</versioneGraphConsole>
+</IXLItemCollection>

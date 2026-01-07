@@ -1,0 +1,295 @@
+Report generato il: 2025-10-06 10:55:32
+=====================================
+         REPORT DELLE ATTIVITA'       
+=====================================
+
+---------------------------------------------
+| Itinerario: 01-45
+| ID: 164
+|   Dettagli TrackCircuit:
+|     - Nome: 110
+|     - Nome: 111
+|     - Nome: 112
+|     - Nome: 301
+|   Dettagli Switch:
+|     - Motor ID: 1286
+|     - Nome: 01
+|     - Stato: 2
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario: 01-43
+| ID: 164
+|   Dettagli TrackCircuit:
+|     - Nome: 110
+|     - Nome: 111
+|     - Nome: 112
+|     - Nome: 302
+|   Dettagli Switch:
+|     - Motor ID: 1286
+|     - Nome: 01
+|     - Stato: 1
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario: 25-01
+| ID: 164
+|   Dettagli TrackCircuit:
+|     - Nome: 112
+|     - Nome: 111
+|     - Nome: 110
+|     - Nome: BCA24_163
+|   Dettagli Switch:
+|     - Motor ID: 1286
+|     - Nome: 01
+|     - Stato: 2
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario: 23-01
+| ID: 164
+|   Dettagli TrackCircuit:
+|     - Nome: 112
+|     - Nome: 111
+|     - Nome: 110
+|     - Nome: BCA24_163
+|   Dettagli Switch:
+|     - Motor ID: 1286
+|     - Nome: 01
+|     - Stato: 1
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario: 02-25
+| ID: 164
+|   Dettagli TrackCircuit:
+|     - Nome: 120
+|     - Nome: 121
+|     - Nome: 122
+|     - Nome: 301
+|   Dettagli Switch:
+|     - Motor ID: 1425
+|     - Nome: 02
+|     - Stato: 2
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario: 02-23
+| ID: 164
+|   Dettagli TrackCircuit:
+|     - Nome: 120
+|     - Nome: 121
+|     - Nome: 122
+|     - Nome: 302
+|   Dettagli Switch:
+|     - Motor ID: 1425
+|     - Nome: 02
+|     - Stato: 1
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario: 45-02
+| ID: 164
+|   Dettagli TrackCircuit:
+|     - Nome: 122
+|     - Nome: 121
+|     - Nome: 120
+|     - Nome: BCA02_165
+|   Dettagli Switch:
+|     - Motor ID: 1425
+|     - Nome: 02
+|     - Stato: 2
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario: 43-02
+| ID: 164
+|   Dettagli TrackCircuit:
+|     - Nome: 122
+|     - Nome: 121
+|     - Nome: 120
+|     - Nome: BCA02_165
+|   Dettagli Switch:
+|     - Motor ID: 1425
+|     - Nome: 02
+|     - Stato: 1
+---------------------------------------------
+
+
+=== ITINERARI DAL DATABASE ===
+---------------------------------------------
+| Itinerario (DB): 02-25
+| ID: 0
+|   Dettagli TrackCircuit (DB):
+|     - Nome: 120
+|     - Nome: 121
+|     - Nome: 122
+|     - Nome: 301
+|   Dettagli Switch (DB):
+|     - Motor ID: 1425
+|     - Nome: 02
+|     - Stato: 2
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario (DB): 02-23
+| ID: 1
+|   Dettagli TrackCircuit (DB):
+|     - Nome: 120
+|     - Nome: 121
+|     - Nome: 122
+|     - Nome: 302
+|   Dettagli Switch (DB):
+|     - Motor ID: 1425
+|     - Nome: 02
+|     - Stato: 1
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario (DB): 45-02
+| ID: 4
+|   Dettagli TrackCircuit (DB):
+|     - Nome: 122
+|     - Nome: 121
+|     - Nome: 120
+|   Dettagli Switch (DB):
+|     - Motor ID: 1425
+|     - Nome: 02
+|     - Stato: 2
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario (DB): 43-02
+| ID: 5
+|   Dettagli TrackCircuit (DB):
+|     - Nome: 122
+|     - Nome: 121
+|     - Nome: 120
+|   Dettagli Switch (DB):
+|     - Motor ID: 1425
+|     - Nome: 02
+|     - Stato: 1
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario (DB): 25-01
+| ID: 6
+|   Dettagli TrackCircuit (DB):
+|     - Nome: 112
+|     - Nome: 111
+|     - Nome: 110
+|   Dettagli Switch (DB):
+|     - Motor ID: 1286
+|     - Nome: 01
+|     - Stato: 2
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario (DB): 23-01
+| ID: 7
+|   Dettagli TrackCircuit (DB):
+|     - Nome: 112
+|     - Nome: 111
+|     - Nome: 110
+|   Dettagli Switch (DB):
+|     - Motor ID: 1286
+|     - Nome: 01
+|     - Stato: 1
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario (DB): 01-45
+| ID: 10
+|   Dettagli TrackCircuit (DB):
+|     - Nome: 110
+|     - Nome: 111
+|     - Nome: 112
+|     - Nome: 301
+|   Dettagli Switch (DB):
+|     - Motor ID: 1286
+|     - Nome: 01
+|     - Stato: 2
+---------------------------------------------
+
+---------------------------------------------
+| Itinerario (DB): 01-43
+| ID: 11
+|   Dettagli TrackCircuit (DB):
+|     - Nome: 110
+|     - Nome: 111
+|     - Nome: 112
+|     - Nome: 302
+|   Dettagli Switch (DB):
+|     - Motor ID: 1286
+|     - Nome: 01
+|     - Stato: 1
+---------------------------------------------
+
+• Itinerario 01-45
+
+    Stato: OK
+
+
+• Itinerario 01-43
+
+    Stato: OK
+
+
+• Itinerario 25-01
+
+    Stato: DIFFERENZE
+
+    Dettagli:
+
+      - TrackCircuits non corrispondenti. XML: ['112', '111', '110', 'BCA24_163'], DB: ['112', '111', '110']
+
+
+
+• Itinerario 23-01
+
+    Stato: DIFFERENZE
+
+    Dettagli:
+
+      - TrackCircuits non corrispondenti. XML: ['112', '111', '110', 'BCA24_163'], DB: ['112', '111', '110']
+
+
+
+• Itinerario 02-25
+
+    Stato: OK
+
+
+• Itinerario 02-23
+
+    Stato: OK
+
+
+• Itinerario 45-02
+
+    Stato: DIFFERENZE
+
+    Dettagli:
+
+      - TrackCircuits non corrispondenti. XML: ['122', '121', '120', 'BCA02_165'], DB: ['122', '121', '120']
+
+
+
+• Itinerario 43-02
+
+    Stato: DIFFERENZE
+
+    Dettagli:
+
+      - TrackCircuits non corrispondenti. XML: ['122', '121', '120', 'BCA02_165'], DB: ['122', '121', '120']
+
+
+
+
+=== RIEPILOGO ITINERARI ===
+  - OK: 4
+  - Con differenze: 4
+
+=== VERIFICHE AGGIUNTIVE ===
+
+Verifiche aggiuntive

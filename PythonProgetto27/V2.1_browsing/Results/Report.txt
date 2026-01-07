@@ -1,0 +1,82 @@
+=====================================
+         REPORT DELLE ATTIVITA'       
+=====================================
+
+Report generato il: 2025-11-20 12:26:36
+
+=== CONFRONTO ITINERARI ===
+• Itinerario 01-45
+
+    Stato: OK
+
+
+• Itinerario 01-48810
+
+    Stato: MANCANTE (presente in XML ma assente nel DB)
+
+
+• Itinerario 01-43
+
+    Stato: OK
+
+
+• Itinerario 25-01
+
+    Stato: DIFFERENZE
+
+    Dettagli:
+
+      - TrackCircuit BCA24_163 non trovato nel DB.
+
+
+
+• Itinerario 23-01
+
+    Stato: DIFFERENZE
+
+    Dettagli:
+
+      - TrackCircuit BCA24_163 non trovato nel DB.
+
+
+
+• Itinerario 02-25
+
+    Stato: OK
+
+
+• Itinerario 02-23
+
+    Stato: OK
+
+
+• Itinerario 45-02
+
+    Stato: DIFFERENZE
+
+    Dettagli:
+
+      - TrackCircuit BCA02_165 non trovato nel DB.
+
+
+
+• Itinerario 43-02
+
+    Stato: DIFFERENZE
+
+    Dettagli:
+
+      - TrackCircuit BCA02_165 non trovato nel DB.
+      
+
+=== RIEPILOGO ITINERARI ===
+ - OK: 4
+
+ - Con differenze: 4
+
+
+=== VERIFICHE AGGIUNTIVE ===
+
+
+  - [ERRORE] XML ha più itinerari (9) del DB (8)!
+
